@@ -357,3 +357,19 @@
 |---|---|---|---|
 | OP-03 | Cross-book audit extended through BWK Topic 3 Pilotage batch 16; Draft 12 contains XBK-001–098 | `data/bwk-f1-f3-crossbook-match-batch-16-pilotage.md`; `data/bwk-f1-f3-deduplicated-concept-register-draft-12.md` | Inspected-scope audit only; not complete nine-book deduplication |
 | OP-04 | BWK Topic 3 pilotage concepts mapped and classified | Batch 16 report | Qualified regulatory review, rights and privacy screening remain mandatory |
+
+
+## 15 November 2026 — BWK↔F1↔F3 cross-book audit batch 17
+
+- Reopened BWK Topic 12 pp. 120–121 and compared Z1–Z2 with F1 regional reporting and F3 ISPS / piracy material.
+- Added `data/bwk-f1-f3-crossbook-match-batch-17-piracy-bmp.md` and concept register Draft 13 with XBK-099 to XBK-100.
+- Strong overlap: BWK BMP5 prevention / response ↔ F1 reporting contacts and F3 attack response / SPM / SSAS / SSA.
+- Material version conflict recorded: F3 says BMP Maritime Security (2025) replaces BMP5. BWK BMP5 retained as historical source content pending current-version review.
+- Flagged AIS treatment and HRA geographic definitions for current official security guidance check; security-sensitive ship-specific details excluded from public migration.
+- Candidate register now contains 100 IDs; partial BWK↔F1↔F3 inspected-scope audit only.
+- No source PDFs, study repositories or website files modified; no public migration or technical approval claimed.
+
+| ID | Updated status | Evidence / next deliverable | Gate |
+|---|---|---|---|
+| OP-03 | Cross-book audit extended through BWK Topic 12 piracy/BMP batch 17; Draft 13 contains XBK-001–100 | `data/bwk-f1-f3-crossbook-match-batch-17-piracy-bmp.md`; `data/bwk-f1-f3-deduplicated-concept-register-draft-13.md` | Partial inspected-scope register; not complete nine-book deduplication |
+| OP-04 | BWK Topic 12 piracy/BMP concepts mapped and classified | Batch 17 report | Current security guidance, confidentiality, rights and qualified review remain mandatory |
