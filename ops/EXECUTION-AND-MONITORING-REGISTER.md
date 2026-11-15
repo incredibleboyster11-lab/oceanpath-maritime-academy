@@ -169,3 +169,11 @@
 - S6 side-shell repair specification has related supporting material in F3 T6 Q5/Q51/Q61/Q62 (shell expansion plan, deck crack, thickness criteria and UTM), but no exact side-shell plate repair-specification answer was established. Deck-crack Q51 is not a substitute.
 - Differences and review gates are recorded in [BWK–F3 Dry-Dock cross-match batch 04](../data/bwk-f3-drydock-crossmatch-batch-04.md).
 - Next: search the remaining F3 Topic 6 Part B material for direct steel-renewal matches; then consolidate cross-match batches 01–04 into a provenance-preserving concept register. Original PDFs remain read-only; no public learning units created.
+
+
+## 15 November 2026 — BWK↔F3 dry-dock search extension and cross-book concept register draft 01
+- Extended F3 Topic 6 search through Part B and added supporting cross-references: T6 Q30 (docking/shell-expansion plans) and Q72 (docking a vessel with bow damage). These support repair planning but do not supply an exact side-shell plate replacement specification for BWK S6.
+- Confirmed F3 T6 Q7 as a strong BWK S4 match for pre-flooding checks; Q1/Q3/Q10/Q63/Q66 cover critical period, preparation, upthrust and post-undocking lifecycle.
+- Created `data/bwk-f1-f3-deduplicated-concept-register-draft-01.md` consolidating cross-match batches 01–04 into 26 concept records plus complementary candidates, source differences, confidence and review gates.
+- Register is a draft, not full nine-book deduplication, technical approval or publication clearance. It records inspected-scope absences only and preserves all source PDFs as read-only.
+- Next: complete remaining F3↔BWK topic mappings (including broader F3 Topic 8 and BWK E14/E15, S5/S6 edge cases), then extend the concept register to all nine books with rights/privacy/reviewer metadata before any public migration.
