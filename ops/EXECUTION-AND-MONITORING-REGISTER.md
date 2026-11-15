@@ -219,3 +219,18 @@
 - New register: `data/bwk-f1-f3-deduplicated-concept-register-draft-03.md`; drafts 01 and 02 retained as historical versions.
 - SAR/MOB mapping shows F1 has useful direct matches for search patterns, distress obligations, TSS MOB and Indian MRCCs; F3 has direct/partial matches for rescue turns and port MOB. SMC duties and heavy-weather recovery remain gaps in inspected F1/F3 scope.
 - This remains an internal BWK↔F1↔F3 candidate map, not a complete nine-book deduplication or publication approval.
+
+
+## 15 November 2026 — BWK↔F1↔F3 cross-book audit batch 08
+
+- Reopened the user-authored BWK, F1 and F3 PDFs and inspected BWK Topic 2 (VTS/SRS/routeing) and Topic 12 (piracy/BMP5), with corresponding F1 routeing/reporting/piracy questions and F3 security questions.
+- Added internal audit report `data/bwk-f1-f3-crossbook-match-batch-08-vts-routeing-piracy.md`.
+- Added concept register Draft 04 with XBK-045 to XBK-049. The candidate register now contains 49 IDs; it remains a partial BWK↔F1↔F3 register, not a complete nine-book deduplication.
+- Key source divergence: BWK uses BMP5; F3 T3 Q61 explicitly refers to BMP Maritime Security (2025) replacing BMP5. Preserve both source versions pending dated regulatory/industry verification; no silent update.
+- Confirmed the need to keep SOLAS V/10 ship routeing, V/11 ship reporting and V/12 VTS as separate learning concepts, while linking related questions.
+- No original PDF, source repository, study answer, website branch or public learning unit was modified. No public migration or technical approval is claimed.
+
+| ID | Updated status | Evidence / next deliverable | Gate |
+|---|---|---|---|
+| OP-03 | BWK↔F1↔F3 cross-book matching extended through batch 08; concept register Draft 04 now has XBK-001–049 | `data/bwk-f1-f3-crossbook-match-batch-08-vts-routeing-piracy.md`; `data/bwk-f1-f3-deduplicated-concept-register-draft-04.md` | Partial inspected-scope audit only; no accuracy or publication clearance |
+| OP-04 | Source-to-platform mapping extended for VTS, SRS, routeing and piracy concepts | Batch 08 report and stable XBK IDs | Keep BMP5/BMP 2025 divergence visible; rights, privacy and qualified technical review remain mandatory |
