@@ -142,3 +142,12 @@
 - Preserved source differences in beaching tide guidance, stranding definitions and ETA/ETP regulatory scope; no silent harmonisation.
 - Regulatory watch: IMO MSC 110 approved MSC.1/Circ.1691, MSC.1/Circ.1175/Rev.2 and MSC.1/Circ.1255/Rev.1. Actual circular texts and applicability must be checked before revising learning content. IMO safe-mooring page records SOLAS II-1/3-8 amendments effective 1 Jan 2024 and associated guidelines.
 - Detailed matrix and next steps: [BWK–F1–F3 candidate cross-match batch 01](../data/bwk-f1-f3-crossbook-match-candidates-batch-01.md).
+
+
+## 15 November 2026 — BWK↔F1/F3 cross-book candidate matrix, batch 02
+- Completed exact Polar & Ice mapping: BWK I1–I5 cross-referenced to F1 Topic 6 Q1–Q11. I1/I2/I3 have strong direct overlap; I4 is related coverage; I5 spans multiple F1 questions. The BWK Polar navigation-system regulatory/exemption gap is only partially addressed by F1 equipment questions.
+- Compared BWK emergency cards E10–E15 with inspected F3 Topic 8 answer bodies. Strong overlap established for BWK E15 collision ↔ F3 T8 Q16. E10 abandon ship, E12 CO2 and E13 enclosed-space entry are complementary rather than duplicates; E14 chemical tanker contingency and E15 flooding/blackout remain unmatched in inspected F3 pages.
+- Preserved distinctions between BWK's operational procedures and F3's drill/system answers. No source material was modified and no public learning unit was created.
+- Regulatory currency lead: IMO MSC.538(107) Polar Code amendments entered into force 1 Jan 2026. Applicability depends on ship category, tonnage, voyage and construction date; verify the current official text before any answer is updated.
+- Detailed source map and limitations: [BWK–F1–F3 candidate cross-match batch 02](../data/bwk-f1-f3-crossbook-match-candidates-batch-02.md).
+- Next: exact F1 Topic 1 Watchkeeping/COLREG mapping against BWK W1–W13; inspect F3 Topic 6 dry-dock answer bodies against BWK S4–S6; extend F3 Topic 8 search for any further matches before declaring gaps.
