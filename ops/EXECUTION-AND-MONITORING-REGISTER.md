@@ -124,3 +124,13 @@
 - Topic 11 index declares I1–I5; I1–I4 visible/partly inspected pp.115–117; I5 remains unmapped. Source old-paper index flags a Polar navigation-system requirements question as not yet covered by an answer in the book.
 - Topic 12: Z2 and partial Z1 material visible on p.121; full index and card mapping pending.
 - No exact NAV duplicates established. Full limits and next actions: [BWK Topics 8–12 batch 04](../data/bwk-answer-body-qa-topics-08-to-12-batch-04.md).
+
+
+## 15 November 2026 — BWK answer-body completion pass 05
+- Completed Topic 4 E1–E15 mapping; explicit source gaps include chemical-tanker cargo-space fire contingency plan.
+- Completed Topic 5 T1–T9 mapping, with exact T3/T4 page boundary flagged for final confirmation.
+- Completed Topic 6 A1–A7 mapping.
+- Completed Topic 8 M1–M3, Topic 9 W1–W13, Topic 10 S1–S6, Topic 11 I1–I5, and Topic 12 Z1–Z2 answer-body mapping.
+- Topic 9 source gap: Safety Committee role/duties/meeting agenda. Topic 11 source gap: Polar Code navigation-system requirements/exemptions for existing ships.
+- No exact BWK↔NAV duplicate established in inspected scope; F1/F3 comparison remains pending. Mapping is presence QA only, not technical correctness or regulatory approval.
+- Detailed evidence and boundaries: [BWK completion batch 05](../data/bwk-answer-body-qa-completion-batch-05.md).
