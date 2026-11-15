@@ -453,3 +453,20 @@
 |---|---|---|---|
 | OP-04 | XBK-103 internal exam framework drafted in batch 22 | `drafts/BWK-GAP-ANSWER-BATCH-22-CHEMICAL-TANKER-FIRE-NLS.md`; research Batch 21 | Qualified chemical-tanker / fire-safety review and controlled current-code verification |
 | OP-03 | Candidate concept register remains 103 IDs; Draft 17 records all three former gaps' draft/research status | `data/bwk-f1-f3-deduplicated-concept-register-draft-17.md` | Broader nine-book deduplication remains incomplete |
+
+
+## 15 November 2026 — Nine-book integration begins: Naval Architecture I ↔ II batch 23
+
+- Reopened both user-authored Naval Architecture source books and reviewed their indexes, paper-pattern pages and selected answer bodies.
+- Added `docs/NAVAL-ARCHITECTURE-I-II-CROSS-BOOK-MAP-BATCH-23.md` and register Draft 18.
+- NA I: 62 source-declared theory answers, 81 worked numericals, 42 past papers; eight theory topics and eight numerical groups.
+- NA II: 70 source-declared theory answers, 73 worked numericals, 39 past papers; fourteen theory topics and three numerical groups.
+- Created first 13 integration records XNA-001 to XNA-013.
+- Key findings: bulk-carrier midship sketch B15 ↔ G9 likely duplicate pending diagram comparison; WT integrity vs fire integrity are related but distinct; passenger subdivision and damage stability complement WT bulkhead construction; NA II bilging / SF-BM / thrust numerical banks remain separate from NA I numerical types.
+- Flagged January 2026 SOLAS amendments to II-1 / II-2 / V and new electronic inclinometer carriage requirements for qualifying new bulk carriers / containerships. These are dated update hooks, not retroactive edits to exam-source answers.
+- No source PDFs, original study repos or website files modified.
+
+| ID | Updated status | Evidence / next deliverable | Gate |
+|---|---|---|---|
+| OP-03 | Nine-book integration started with NA I ↔ NA II batch 23; 13 XNA cross-book relationships created | `docs/NAVAL-ARCHITECTURE-I-II-CROSS-BOOK-MAP-BATCH-23.md`; Draft 18 | First-pass only; diagram and answer-body comparisons pending |
+| OP-04 | NA I / NA II regulatory currency watch flagged for 2026 SOLAS changes | IMO January 2026 SOLAS supplement and IMO 2026 rules summary | Qualified technical / regulatory review before publication |
