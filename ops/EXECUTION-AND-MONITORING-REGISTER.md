@@ -311,3 +311,18 @@
 |---|---|---|---|
 | OP-03 | Cross-book audit extended through BWK Topic 8 Mooring batch 13; Draft 09 contains XBK-001–084 | `data/bwk-f1-f3-crossbook-match-batch-13-mooring.md`; `data/bwk-f1-f3-deduplicated-concept-register-draft-09.md` | Inspected-scope audit only; not complete nine-book deduplication |
 | OP-04 | BWK Topic 8 mooring concepts mapped and classified | Batch 13 report | Qualified technical review, rights and privacy screening remain mandatory |
+
+
+## 15 November 2026 — BWK↔F1↔F3 cross-book audit batch 14
+
+- Reopened BWK Topic 10 pp. 109–114 and compared S1–S6 with inspected F1/F3 STS and dry-dock passages.
+- Added `data/bwk-f1-f3-crossbook-match-batch-14-sts-drydock-repairs.md` and concept register Draft 10 with XBK-085 to XBK-090.
+- No full STS area-selection / service-ship approach answer was established in the inspected F1/F3 passages. BWK's parallel and angled approaches remain separate.
+- Strong overlap: pre-flooding dry-dock checklist ↔ F3 T6 Q7; complementary F1 docking sequence; dry-dock emergencies ↔ F3 critical-period hazards / fatality response; side-shell repair specification ↔ F3 shell expansion plan, UTM and scantling material.
+- Candidate register now contains 90 IDs; partial BWK↔F1↔F3 inspected-scope audit only.
+- No source PDFs, study repositories or website files modified; no public migration or technical approval claimed.
+
+| ID | Updated status | Evidence / next deliverable | Gate |
+|---|---|---|---|
+| OP-03 | Cross-book audit extended through BWK Topic 10 STS/dry-dock/repairs batch 14; Draft 10 contains XBK-001–090 | `data/bwk-f1-f3-crossbook-match-batch-14-sts-drydock-repairs.md`; `data/bwk-f1-f3-deduplicated-concept-register-draft-10.md` | Inspected-scope audit only; not complete nine-book deduplication |
+| OP-04 | BWK Topic 10 concepts mapped and classified | Batch 14 report | Qualified technical/class/regulatory review, rights and privacy screening remain mandatory |
