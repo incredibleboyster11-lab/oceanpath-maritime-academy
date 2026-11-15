@@ -11,7 +11,7 @@
 |---|---|---|---|---|---|
 | S4 | Checklist before/after flooding dry dock; critical period; preparation for docking | T6 Q7 (checks before flooding); T6 Q1 (critical period/instant); T6 Q3 (dry-dock preparation); T6 Q63 (pre-entry checks); T6 Q66 (post-dry-dock checks); supporting T6 Q10 (upthrust P / virtual loss of GM) | Strong overlap | High | F3 splits the same lifecycle into separate questions and gives more extensive stability and pre/post-docking detail. BWK S4 is a concise checklist answer. |
 | S5 | Emergencies in dry dock and dry-dock safety | T6 Q46 (dry-docking dangers / critical-period precautions); T6 Q49 (prevention of sliding/toppling off blocks); T6 Q92 (ship listing while dock is flooding); related T6 Q66 (post-docking checks) | Partial / complementary | Medium | F3 covers critical-period stability hazards and specific flooding/listing scenarios. The inspected F3 answers do not provide a complete equivalent to BWK's broad dry-dock emergency and yard-safety list (fire, personal injury, enclosed-space accidents, flooding, access, housekeeping, hot-work controls). |
-| S6 | Repair specification for renewing a side-shell plate / steel renewal | T6 Q5 (shell expansion plan); T6 Q51 (crack near hatch cover); T6 Q61 (plate-thickness diminution); T6 Q62 (UTM thickness gauging) | Related / complementary | Medium-low | F3 provides supporting information for locating, measuring and assessing steel damage, but no exact repair-specification answer for side-shell plate renewal was established in the inspected question set. T6 Q51 concerns a deck crack, not a side-shell plate renewal specification. |
+| S6 | Repair specification for renewing a side-shell plate / steel renewal | T6 Q5 (shell expansion plan); T6 Q51 (crack near hatch cover); T6 Q61 (plate-thickness diminution); T6 Q62 (UTM thickness gauging) | Related / complementary | Medium-low | F3 provides supporting information for locating, measuring and assessing steel damage, but no exact repair-specification answer for side-shell plate renewal was established in the inspected question set, including the later Part B questions searched (Q72 and adjacent dry-dock material). T6 Q51 concerns a deck crack, not a side-shell plate renewal specification. |
 
 ## 2. Useful detailed cross-references
 
@@ -29,8 +29,9 @@
 - These are important cross-links but do not replace BWK S5's wider emergency taxonomy and dry-dock safety measures.
 
 ### S6 — side-shell plate repair specification
-- **F3 T6 Q5, printed p. 134:** shell expansion plan helps identify plate/strake, frame location, thickness, steel grade, seams/butts and openings.
+- **F3 T6 Q5, printed p. 134 and Q30, printed p. 142:** shell expansion plan and combined plan information help identify plate/strake, frame location, thickness, steel grade, seams/butts and openings.
 - **F3 T6 Q51, printed p. 149:** crack response and class-approved temporary measures; the scenario is a deck crack near hatch cover, not side shell renewal.
+- **F3 T6 Q72, printed p. 155:** docking a vessel with bow damage and the class surveyor's renewal scheme; this is damage-specific docking guidance, not a side-shell plate repair specification.
 - **F3 T6 Q61, printed p. 152:** general thickness diminution / renewal criteria, subject to class and member location.
 - **F3 T6 Q62, printed p. 152:** UTM process, surveyor-selected locations and thickness report.
 - The inspected F3 material supports the diagnostic and planning steps, but not the full BWK S6 replacement-plate dimensions and repair specification.
