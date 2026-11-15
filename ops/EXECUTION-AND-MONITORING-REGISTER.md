@@ -342,3 +342,18 @@
 |---|---|---|---|
 | OP-03 | Cross-book audit extended through BWK Topic 2 VTS/reporting/routeing batch 15; Draft 11 contains XBK-001–094 | `data/bwk-f1-f3-crossbook-match-batch-15-vts-reporting-routeing.md`; `data/bwk-f1-f3-deduplicated-concept-register-draft-11.md` | Inspected-scope audit only; not complete nine-book deduplication |
 | OP-04 | BWK Topic 2 VTS/reporting/routeing concepts mapped and classified | Batch 15 report | Qualified regulatory review, rights and privacy screening remain mandatory |
+
+
+## 15 November 2026 — BWK↔F1↔F3 cross-book audit batch 16
+
+- Reopened BWK Topic 3 pp. 33–36 and compared P1–P4 with inspected F1/F3 passage-planning, pilot-ladder and BRM material.
+- Added `data/bwk-f1-f3-crossbook-match-batch-16-pilotage.md` and concept register Draft 12 with XBK-095 to XBK-098.
+- MPX and pilot duties have partial / complementary support only; pilot boarding manoeuvre has ladder and passage-plan support; no complete F1/F3 equivalent established for pilot engagement/duties.
+- Preserved the distinction between MPX and passage planning, and between pilot's conduct of navigation and Master's command.
+- Candidate register now contains 98 IDs; partial BWK↔F1↔F3 inspected-scope audit only.
+- No source PDFs, study repositories or website files modified; no public migration or technical approval claimed.
+
+| ID | Updated status | Evidence / next deliverable | Gate |
+|---|---|---|---|
+| OP-03 | Cross-book audit extended through BWK Topic 3 Pilotage batch 16; Draft 12 contains XBK-001–098 | `data/bwk-f1-f3-crossbook-match-batch-16-pilotage.md`; `data/bwk-f1-f3-deduplicated-concept-register-draft-12.md` | Inspected-scope audit only; not complete nine-book deduplication |
+| OP-04 | BWK Topic 3 pilotage concepts mapped and classified | Batch 16 report | Qualified regulatory review, rights and privacy screening remain mandatory |
