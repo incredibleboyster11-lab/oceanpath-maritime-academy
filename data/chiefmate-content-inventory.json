@@ -1,0 +1,620 @@
+{
+  "schema_version": "1.0.0",
+  "generated_on": "2026-11-15",
+  "purpose": "Internal OceanPath derivative inventory. This is a provenance and governance index, not a republication of source learning content.",
+  "source_repository": "incredibleboyster11-lab/chiefmate-reels",
+  "source_branch": "main",
+  "source_files": [
+    {
+      "path": "plan/hub/hub.json",
+      "blob_sha": "f3e40a10e6a6ec678212004b27412eadecaf911a",
+      "role": "subject/book catalogue and distribution pointers"
+    },
+    {
+      "path": "plan/tracker.csv",
+      "blob_sha": "89cb94339d10311cc32bfab9833edb0536fe8cb0",
+      "role": "production tracker; only aggregate row counts retained here"
+    },
+    {
+      "path": "plan/videos/",
+      "role": "video metadata directory",
+      "file_count": 64,
+      "files": [
+        {
+          "path": "plan/videos/bwk-ep001-iamsar-purpose-volumes-three.json",
+          "blob_sha": "e18d7df54f9debb021df412e534f707d22aa29a3",
+          "size_bytes": 4000
+        },
+        {
+          "path": "plan/videos/f1-ep001-rules-apply-restricted-visibility.json",
+          "blob_sha": "95789da43696a9596ab0dc9dab0cf6b4b2d90683",
+          "size_bytes": 3047
+        },
+        {
+          "path": "plan/videos/f1-ep002-quote-rule-2-rule.json",
+          "blob_sha": "1cb52a06f30e3b03f0844f0b79477349c2bd9437",
+          "size_bytes": 3324
+        },
+        {
+          "path": "plan/videos/f1-ep003-rv-fog-signal-vessel.json",
+          "blob_sha": "8abba36045abc9699be5c0e89610a5391e5ffb44",
+          "size_bytes": 3985
+        },
+        {
+          "path": "plan/videos/f1-ep004-parts-sections-colreg-f.json",
+          "blob_sha": "19f2b49ef84156110076f1288e433494b966f8b3",
+          "size_bytes": 3852
+        },
+        {
+          "path": "plan/videos/f2-ep001-concentrates-hazards.json",
+          "blob_sha": "d1ee4fcb7777a8101eea881918f5ab9c5225b3b3",
+          "size_bytes": 3300
+        },
+        {
+          "path": "plan/videos/f2-ep002-solas-chapter-xii-main.json",
+          "blob_sha": "520bc3937a22e286b9d36dba593b72b6d86ec46b",
+          "size_bytes": 3495
+        },
+        {
+          "path": "plan/videos/f2-ep003-hazards-coal-gases-spontaneous.json",
+          "blob_sha": "09461dbbfc6e62667da303be9d2d9bf8fc378cb8",
+          "size_bytes": 4018
+        },
+        {
+          "path": "plan/videos/f2-ep004-imsbc-code-purpose-main.json",
+          "blob_sha": "c8c4f968b02d0c037c19dd17ebef46d25b2e4915",
+          "size_bytes": 3950
+        },
+        {
+          "path": "plan/videos/f3-ep001-critical-period-critical-instant.json",
+          "blob_sha": "f32f4f6ba651a697564ce8794b277ecd96642c58",
+          "size_bytes": 3255
+        },
+        {
+          "path": "plan/videos/f3-ep002-declivity-dry-dock-it.json",
+          "blob_sha": "2628b5a1dab014b12fbe49ed94d6a85f00b6a8e7",
+          "size_bytes": 3190
+        },
+        {
+          "path": "plan/videos/f3-ep003-dry-dock-preparation-chief.json",
+          "blob_sha": "f8513725fc51897925366a9969f41915dd1be376",
+          "size_bytes": 4185
+        },
+        {
+          "path": "plan/videos/f3-ep004-plans-required-dry-dock.json",
+          "blob_sha": "05d894ec55c5901a2d4c80556af146b508b2a624",
+          "size_bytes": 4016
+        },
+        {
+          "path": "plan/videos/law-ep001-principles-marine-insurance.json",
+          "blob_sha": "791211b102ae1acb3f65139a3cc57ecc536d3b46",
+          "size_bytes": 3378
+        },
+        {
+          "path": "plan/videos/law-ep002-difference-between-total-loss.json",
+          "blob_sha": "04ce4feed55bb26de8383b1d78049de943619cf3",
+          "size_bytes": 3904
+        },
+        {
+          "path": "plan/videos/mek-ep001-domestic-refrigeration-system.json",
+          "blob_sha": "1b699f91baba42777e4b0f9c12811c98f81c4aca",
+          "size_bytes": 3653
+        },
+        {
+          "path": "plan/videos/mek-ep002-properties-refrigerant-refrigerants.json",
+          "blob_sha": "3ae624ea7cd21a0c1d2a62c91ddec4fde21d2534",
+          "size_bytes": 4080
+        },
+        {
+          "path": "plan/videos/na-ep001-bilging-box-shaped-vessel.json",
+          "blob_sha": "9426eff5525a19c3f330473320016e77a6b0dd5b",
+          "size_bytes": 3217
+        },
+        {
+          "path": "plan/videos/na-ep002-inclining-experiment.json",
+          "blob_sha": "ee9cb26aacbc874cc67cedd7d2569fe69cd1a3f0",
+          "size_bytes": 4355
+        },
+        {
+          "path": "plan/videos/nav-ep001-radar-plotting-q1.json",
+          "blob_sha": "02f2fef1ba4a1604bef6176aae2b7d4d413e2da6",
+          "size_bytes": 3140
+        },
+        {
+          "path": "plan/videos/nav-v01-radar-plotting-from-zero.json",
+          "blob_sha": "7070b02dec09900f6b3abebdae92854c2fa5f592",
+          "size_bytes": 4522
+        },
+        {
+          "path": "plan/videos/nav-v01-short-fog.json",
+          "blob_sha": "cf889c80273c4161e141e2672b6484026eec9caa",
+          "size_bytes": 4602
+        },
+        {
+          "path": "plan/videos/nav-v01-short-nuc.json",
+          "blob_sha": "3c75cb28e67cdeb5efc87448429d36938fa29e82",
+          "size_bytes": 4367
+        },
+        {
+          "path": "plan/videos/nav-v02-course-or-speed.json",
+          "blob_sha": "aebe8ed76dcb7fb024fa5cf4379a0d4a9f130d23",
+          "size_bytes": 4326
+        },
+        {
+          "path": "plan/videos/nav-v02-short-abeam.json",
+          "blob_sha": "d9e208740ef77c04ea396288d96d9aa1097ac233",
+          "size_bytes": 4492
+        },
+        {
+          "path": "plan/videos/nav-v02-short-echo.json",
+          "blob_sha": "7916a1641abc5ed3cc4dafeee4577a30456bd7c0",
+          "size_bytes": 4526
+        },
+        {
+          "path": "plan/videos/nav-v03-multi-target.json",
+          "blob_sha": "27fc65c711c8ca6fe270094f1d4b41dca056c0e3",
+          "size_bytes": 3985
+        },
+        {
+          "path": "plan/videos/nav-v03-short-astern.json",
+          "blob_sha": "0315cd1c7dbc13c9d456f09ad4179546f0469b88",
+          "size_bytes": 4784
+        },
+        {
+          "path": "plan/videos/nav-v03-short-where.json",
+          "blob_sha": "92c54b3355bf796d01e7dd51a928132defc11dfc",
+          "size_bytes": 4786
+        },
+        {
+          "path": "plan/videos/nav-v04-set-and-drift.json",
+          "blob_sha": "ccde6a80dc12644bb5ec7a20e95746e497b2a05b",
+          "size_bytes": 3835
+        },
+        {
+          "path": "plan/videos/nav-v04-short-buoy.json",
+          "blob_sha": "ae7dce20722015d2ccc3b625515dba6882c951ff",
+          "size_bytes": 4686
+        },
+        {
+          "path": "plan/videos/nav-v04-short-current.json",
+          "blob_sha": "06429f1a6eba42747b9203f5e9268a716034b9a9",
+          "size_bytes": 4735
+        },
+        {
+          "path": "plan/videos/nav-v05-gyro-1.json",
+          "blob_sha": "79846c588ca04c26e7bd4f5029c6a144bd3b5224",
+          "size_bytes": 4570
+        },
+        {
+          "path": "plan/videos/nav-v05-short-damping.json",
+          "blob_sha": "2cdc599fdeade69477a98a147dc648794ea52ad4",
+          "size_bytes": 4306
+        },
+        {
+          "path": "plan/videos/nav-v05-short-gyro.json",
+          "blob_sha": "509f501f62aee51311a862a79e1dbbe2188396d2",
+          "size_bytes": 4449
+        },
+        {
+          "path": "plan/videos/nav-v06-gyro-2.json",
+          "blob_sha": "9fec92dab78c5d6c2af4e3e990aaf0d7c45b1d0c",
+          "size_bytes": 4488
+        },
+        {
+          "path": "plan/videos/nav-v06-short-hidden.json",
+          "blob_sha": "2e99b6f51a4aaf68497a74aa6e75edffb0f990cf",
+          "size_bytes": 4496
+        },
+        {
+          "path": "plan/videos/nav-v06-short-high.json",
+          "blob_sha": "be7519159ee20fd3d119eec81101a1df077a80f4",
+          "size_bytes": 4790
+        },
+        {
+          "path": "plan/videos/nav-v07-gyro-3.json",
+          "blob_sha": "94b538c32a74cfa5572db8860eac482a8a4d37d6",
+          "size_bytes": 4721
+        },
+        {
+          "path": "plan/videos/nav-v07-short-return.json",
+          "blob_sha": "85d538232af4e69a853f18423299a6c62d6b3f52",
+          "size_bytes": 4831
+        },
+        {
+          "path": "plan/videos/nav-v07-short-speed.json",
+          "blob_sha": "a4ae648297f344da572db8f98da7131aff4957fc",
+          "size_bytes": 4835
+        },
+        {
+          "path": "plan/videos/nav-v08-roti.json",
+          "blob_sha": "05446619682e8ebbd8f8018085d8fa7d6bacf3ce",
+          "size_bytes": 5013
+        },
+        {
+          "path": "plan/videos/nav-v08-short-rot.json",
+          "blob_sha": "375da486ed90f2f6c8bbf25828ff6a66b974bbc3",
+          "size_bytes": 4988
+        },
+        {
+          "path": "plan/videos/nav-v08-short-wheelover.json",
+          "blob_sha": "cfaaeca084a0bd3784fbb1deb4d9b73224b2f8ca",
+          "size_bytes": 5118
+        },
+        {
+          "path": "plan/videos/promo-ml.json",
+          "blob_sha": "9bd99da2813c85f7b5671fa041a3a5e7be625117",
+          "size_bytes": 2735
+        },
+        {
+          "path": "plan/videos/promo-tcn.json",
+          "blob_sha": "6db943605f07e57611ddc0d888e5d2ef88345bbb",
+          "size_bytes": 2373
+        },
+        {
+          "path": "plan/videos/tcn-ch01.json",
+          "blob_sha": "52f89e030ab92a91986693b672629ce8f320a714",
+          "size_bytes": 5646
+        },
+        {
+          "path": "plan/videos/tcn-ch02.json",
+          "blob_sha": "4a1f94f78d334d456d8b62ee072958a34578df3a",
+          "size_bytes": 5670
+        },
+        {
+          "path": "plan/videos/tcn-ch03.json",
+          "blob_sha": "318fbde38df66805bf7ab93039652ea4717a92f1",
+          "size_bytes": 5797
+        },
+        {
+          "path": "plan/videos/tcn-ch04.json",
+          "blob_sha": "9396a0d047f5bf60472cb08273d09fc72ad281b1",
+          "size_bytes": 6009
+        },
+        {
+          "path": "plan/videos/tcn-ch05.json",
+          "blob_sha": "32b24e6f75597ceab479e7d9e99fe0e597ffd3a2",
+          "size_bytes": 5742
+        },
+        {
+          "path": "plan/videos/tcn-ch06.json",
+          "blob_sha": "6d6f0438c9bec6f1efd884635656648d3281926d",
+          "size_bytes": 6170
+        },
+        {
+          "path": "plan/videos/tcn-ch07.json",
+          "blob_sha": "42e8f3449fa8c1779e107b3d9194c5bc6807bd7d",
+          "size_bytes": 5771
+        },
+        {
+          "path": "plan/videos/tcn-ch08.json",
+          "blob_sha": "d6e3f601d2d23d7645e3db869bef69414b02a5e6",
+          "size_bytes": 6157
+        },
+        {
+          "path": "plan/videos/tcn-ch09.json",
+          "blob_sha": "b0c4d19d126b21b532cdf6ca68b3bcb83e852224",
+          "size_bytes": 5812
+        },
+        {
+          "path": "plan/videos/tcn-ch10.json",
+          "blob_sha": "3b4c4e231811c6c5ac722169cdac0d5a48c23605",
+          "size_bytes": 5655
+        },
+        {
+          "path": "plan/videos/tcn-ch11.json",
+          "blob_sha": "166cac74db23b6aa285483dca2fac4ec5e43e96f",
+          "size_bytes": 5792
+        },
+        {
+          "path": "plan/videos/tcn-q01.json",
+          "blob_sha": "1e358ad468b8c4c25537eacc283a0a3424ec5292",
+          "size_bytes": 3266
+        },
+        {
+          "path": "plan/videos/tcn-q02.json",
+          "blob_sha": "dbd9397a861896d707f777dc317570b10d84984c",
+          "size_bytes": 3732
+        },
+        {
+          "path": "plan/videos/tcn-q03.json",
+          "blob_sha": "b544fabf81503366c67f99e794e0bbb34640d0a2",
+          "size_bytes": 3637
+        },
+        {
+          "path": "plan/videos/tcn-q04.json",
+          "blob_sha": "f38d4f9a0ca9f8f71d40bd94b72494cefc657606",
+          "size_bytes": 3654
+        },
+        {
+          "path": "plan/videos/tcn-q05.json",
+          "blob_sha": "6fc9cfd52f26d3461aad0e7a5b1a5bf8999cd369",
+          "size_bytes": 4053
+        },
+        {
+          "path": "plan/videos/tcn-q06.json",
+          "blob_sha": "945daa672b667421ed2937ac36cdc6c35c9bcebf",
+          "size_bytes": 3636
+        },
+        {
+          "path": "plan/videos/tcn-q07.json",
+          "blob_sha": "bf477426884f3e5ecaf9cd29ae98cc0935fb78a3",
+          "size_bytes": 4053
+        }
+      ]
+    }
+  ],
+  "inventory_coverage": {
+    "hub_book_groups": 9,
+    "tracker_rows_inspected": 1289,
+    "tracker_rows_by_subject": {
+      "F1": 295,
+      "F2": 313,
+      "F3": 239,
+      "MEK": 116,
+      "NAV": 68,
+      "BWK": 63,
+      "LAW": 121,
+      "NA": 74
+    },
+    "video_metadata_files_listed": 64,
+    "video_metadata_contents_individually_reviewed": 0,
+    "book_content_bodies_reviewed": 0,
+    "coverage_note": "Hub, tracker and video directory listing inspected. Individual video JSON bodies and external Claude artifact contents have not yet been audited. Tracker row-level personal/surveyor/frequency details are deliberately excluded."
+  },
+  "content_groups": [
+    {
+      "source_id": "CM-MEK",
+      "rank": "Chief Mate",
+      "subject_code": "MEK",
+      "subject_name": "Engineering Knowledge (MEK)",
+      "source_group": "Phase II written",
+      "source_locator": "incredibleboyster11-lab/chiefmate-reels:plan/hub/hub.json#MEK",
+      "source_artifact_pointer_present": true,
+      "hub_reported_metrics": [
+        {
+          "value": "146",
+          "label": "MEK answers with sketches"
+        },
+        {
+          "value": "27",
+          "label": "solved Q1 numericals"
+        },
+        {
+          "value": "48",
+          "label": "old papers analysed"
+        }
+      ],
+      "hub_reported_video_count": 2,
+      "rights_status": "unknown",
+      "publication_status": "blocked_pending_rights_and_review",
+      "review_status": "not_audited"
+    },
+    {
+      "source_id": "CM-LAW",
+      "rank": "Chief Mate",
+      "subject_code": "LAW",
+      "subject_name": "Maritime Law",
+      "source_group": "Phase II written",
+      "source_locator": "incredibleboyster11-lab/chiefmate-reels:plan/hub/hub.json#LAW",
+      "source_artifact_pointer_present": true,
+      "hub_reported_metrics": [
+        {
+          "value": "177",
+          "label": "Maritime Law answers"
+        },
+        {
+          "value": "271",
+          "label": "practice MCQs"
+        },
+        {
+          "value": "39",
+          "label": "old papers analysed"
+        }
+      ],
+      "hub_reported_video_count": 2,
+      "rights_status": "unknown",
+      "publication_status": "blocked_pending_rights_and_review",
+      "review_status": "not_audited"
+    },
+    {
+      "source_id": "CM-NAV",
+      "rank": "Chief Mate",
+      "subject_code": "NAV",
+      "subject_name": "Navigational Aids",
+      "source_group": "Phase II written",
+      "source_locator": "incredibleboyster11-lab/chiefmate-reels:plan/hub/hub.json#NAV",
+      "source_artifact_pointer_present": true,
+      "hub_reported_metrics": [
+        {
+          "value": "74",
+          "label": "Nav Aids answers"
+        },
+        {
+          "value": "51",
+          "label": "solved radar, gyro & turn sums"
+        },
+        {
+          "value": "38",
+          "label": "old papers analysed"
+        }
+      ],
+      "hub_reported_video_count": 1,
+      "rights_status": "unknown",
+      "publication_status": "blocked_pending_rights_and_review",
+      "review_status": "not_audited"
+    },
+    {
+      "source_id": "CM-NA",
+      "rank": "Chief Mate",
+      "subject_code": "NA",
+      "subject_name": "Naval Architecture",
+      "source_group": "Phase II written",
+      "source_locator": "incredibleboyster11-lab/chiefmate-reels:plan/hub/hub.json#NA",
+      "source_artifact_pointer_present": true,
+      "hub_reported_metrics": [
+        {
+          "value": "70",
+          "label": "Naval Arch answers"
+        },
+        {
+          "value": "73",
+          "label": "solved numericals"
+        },
+        {
+          "value": "39",
+          "label": "old papers analysed"
+        }
+      ],
+      "hub_reported_video_count": 2,
+      "rights_status": "unknown",
+      "publication_status": "blocked_pending_rights_and_review",
+      "review_status": "not_audited"
+    },
+    {
+      "source_id": "CM-BWK",
+      "rank": "Chief Mate",
+      "subject_code": "BWK",
+      "subject_name": "Bridge Watchkeeping, SAR & Ship Handling",
+      "source_group": "Phase II written",
+      "source_locator": "incredibleboyster11-lab/chiefmate-reels:plan/hub/hub.json#BWK",
+      "source_artifact_pointer_present": true,
+      "hub_reported_metrics": [
+        {
+          "value": "103",
+          "label": "BWK answers"
+        },
+        {
+          "value": "35",
+          "label": "old papers analysed"
+        },
+        {
+          "value": "0",
+          "label": "fees – always free"
+        }
+      ],
+      "hub_reported_video_count": 1,
+      "rights_status": "unknown",
+      "publication_status": "blocked_pending_rights_and_review",
+      "review_status": "not_audited"
+    },
+    {
+      "source_id": "CM-F1",
+      "rank": "Chief Mate",
+      "subject_code": "F1",
+      "subject_name": "Function 1 Orals",
+      "source_group": "Orals",
+      "source_locator": "incredibleboyster11-lab/chiefmate-reels:plan/hub/hub.json#F1",
+      "source_artifact_pointer_present": true,
+      "hub_reported_metrics": [
+        {
+          "value": "1012",
+          "label": "real F1 oral questions"
+        },
+        {
+          "value": "50",
+          "label": "surveyor profiles"
+        },
+        {
+          "value": "1",
+          "label": "oral-ready answer each"
+        }
+      ],
+      "hub_reported_video_count": 4,
+      "rights_status": "unknown",
+      "publication_status": "blocked_pending_rights_and_review",
+      "review_status": "not_audited"
+    },
+    {
+      "source_id": "CM-F2",
+      "rank": "Chief Mate",
+      "subject_code": "F2",
+      "subject_name": "Function 2 Orals",
+      "source_group": "Orals",
+      "source_locator": "incredibleboyster11-lab/chiefmate-reels:plan/hub/hub.json#F2",
+      "source_artifact_pointer_present": true,
+      "hub_reported_metrics": [
+        {
+          "value": "1009",
+          "label": "real F2 oral questions"
+        },
+        {
+          "value": "69",
+          "label": "surveyor profiles"
+        },
+        {
+          "value": "1",
+          "label": "oral-ready answer each"
+        }
+      ],
+      "hub_reported_video_count": 4,
+      "rights_status": "unknown",
+      "publication_status": "blocked_pending_rights_and_review",
+      "review_status": "not_audited"
+    },
+    {
+      "source_id": "CM-F3",
+      "rank": "Chief Mate",
+      "subject_code": "F3",
+      "subject_name": "Function 3 Orals",
+      "source_group": "Orals",
+      "source_locator": "incredibleboyster11-lab/chiefmate-reels:plan/hub/hub.json#F3",
+      "source_artifact_pointer_present": true,
+      "hub_reported_metrics": [
+        {
+          "value": "720",
+          "label": "real F3 oral questions"
+        },
+        {
+          "value": "51",
+          "label": "surveyor profiles"
+        },
+        {
+          "value": "1",
+          "label": "oral-ready answer each"
+        }
+      ],
+      "hub_reported_video_count": 4,
+      "rights_status": "unknown",
+      "publication_status": "blocked_pending_rights_and_review",
+      "review_status": "not_audited"
+    },
+    {
+      "source_id": "CM-NA1",
+      "rank": "Chief Mate",
+      "subject_code": "NA1",
+      "subject_name": "Naval Architecture I",
+      "source_group": "Phase I written",
+      "source_locator": "incredibleboyster11-lab/chiefmate-reels:plan/hub/hub.json#NA1",
+      "source_artifact_pointer_present": true,
+      "hub_reported_metrics": [
+        {
+          "value": "143",
+          "label": "answers & numericals"
+        },
+        {
+          "value": "81",
+          "label": "solved numericals"
+        },
+        {
+          "value": "42",
+          "label": "old papers"
+        }
+      ],
+      "hub_reported_video_count": 0,
+      "rights_status": "unknown",
+      "publication_status": "blocked_pending_rights_and_review",
+      "review_status": "not_audited"
+    }
+  ],
+  "rights_policy": {
+    "default_status": "unknown",
+    "publication_allowed": false,
+    "evidence_required": [
+      "written assignment or licence from each relevant author/rightsholder",
+      "third-party source and image/diagram permissions",
+      "permission scope: online display, modification, redistribution, commercial use, territory and duration",
+      "attribution requirements and takedown/contact process"
+    ],
+    "rule": "Repository possession, authorship claims in metadata, public links, or prior social posting do not by themselves establish reuse rights."
+  }
+}
