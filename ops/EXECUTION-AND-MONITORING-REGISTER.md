@@ -249,3 +249,19 @@
 |---|---|---|---|
 | OP-03 | Cross-book audit extended through pilotage batch 09; Draft 05 contains XBK-001–052 | `data/bwk-f1-f3-crossbook-match-batch-09-pilotage.md`; `data/bwk-f1-f3-deduplicated-concept-register-draft-05.md` | Inspected-scope match audit only; no technical or publication clearance |
 | OP-04 | Pilotage concepts mapped to source questions and stable IDs | Batch 09 report | Official pilot-transfer requirements, rights, privacy and qualified review remain open |
+
+
+## 15 November 2026 — BWK↔F1↔F3 cross-book audit batch 10
+
+- Reopened BWK Topic 5 pp. 53–62 and compared T1–T9 with inspected F1/F3 ETA, tug and girting material.
+- Added `data/bwk-f1-f3-crossbook-match-batch-10-towing-tugs.md` and concept register Draft 06 with XBK-053 to XBK-061.
+- Strong overlaps: tanker ETA (BWK T1 ↔ F1 T7 ETA questions ↔ F3 T8 Q8), tug types (BWK T7 ↔ F3 T7 Q40), girting (BWK T8 ↔ F3 T7 Q8).
+- BWK's full non-tanker procedure, ETB decision matrix, connecting/passage/casting-off sequence, ocean towing/bollard-pull material and ship–tug interaction remain distinct or unmatched in the inspected F1/F3 scope.
+- Flagged gob/gog terminology and current applicability of SOLAS II-1/3-4 / towing guidance for qualified review.
+- Candidate register now contains 61 IDs; still a partial BWK↔F1↔F3 inspected-scope register, not a complete nine-book deduplication.
+- No source PDF, study repository or website file modified; no public migration or technical approval claimed.
+
+| ID | Updated status | Evidence / next deliverable | Gate |
+|---|---|---|---|
+| OP-03 | Cross-book audit extended through towing/tugs batch 10; Draft 06 contains XBK-001–061 | `data/bwk-f1-f3-crossbook-match-batch-10-towing-tugs.md`; `data/bwk-f1-f3-deduplicated-concept-register-draft-06.md` | Inspected-scope audit only; no technical or publication clearance |
+| OP-04 | Towing / tug / ETA source concepts mapped and classified | Batch 10 report | Official regulatory currency, rights, privacy and qualified technical review remain open |
