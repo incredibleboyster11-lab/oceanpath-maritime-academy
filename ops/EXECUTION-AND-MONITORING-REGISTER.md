@@ -39,8 +39,20 @@
 
 | ID | Updated status | Evidence / next deliverable | Gate |
 |---|---|---|---|
-| OP-03 | NAV theory inventory reconciled: 74 answer-card IDs across Topics 1–8 | `data/nav-content-question-inventory-batch-01.md`, `data/nav-content-question-inventory-batch-02.md`, `data/nav-content-question-inventory-batch-03.md`; next: reconcile 51 declared numerical cards | Keep source frequencies labelled as source-declared; no public release without technical, regulatory, rights and privacy review |
-| OP-04 | Row-level NAV source mapping complete for theory cards | Extract numerical IDs and page spans; then cross-book question-level overlap analysis | Original PDFs read-only; derivatives remain internal drafts |
+| OP-03 | NAV source inventory reconciled: 74 theory cards + 51 numerical/plot cards | Three theory inventory batches plus `data/nav-numerical-bank-inventory-and-reconciliation.md`; next: question-level cross-book overlap analysis and source answer QA | Source frequencies remain unverified; technical/regulatory/rights/privacy review before public release |
+| OP-04 | Row-level NAV inventory complete for theory and numerical groups | Cross-book question-level matching; then select a controlled pilot derivative | Original PDFs read-only; derivatives remain internal drafts |
+
+
+## 15 November 2026 — NAV numerical-bank reconciliation
+
+- Read the numerical/plot section directly (PDF pages 91–206) and reconciled all source-declared numerical groups:
+  - Radar plotting Q1: 19 cards, RP01–RP19 (pages 91–162).
+  - Gyro compass Q2: 24 cards, GN01–GN24 (pages 163–191).
+  - Radius of turn / ROTI Q4: 8 cards, TN01 and TN03–TN09 (pages 192–206).
+- Total: 51 numerical/plot cards, matching the book's declared 51. The source has no TN02 card; preserve the source's numbering gap and do not invent or renumber it.
+- Created `data/nav-numerical-bank-inventory-and-reconciliation.md`. Old-paper appearances are cross-references to grouped cards, not additional unique numerical cards.
+- Reconciled combined NAV inventory: 74 theory answer cards + 51 numerical/plot cards. The separate old-paper section declares 38 papers; this is a distinct index, not part of the learning-card total.
+- This is count reconciliation only; individual solution accuracy and regulatory references remain to be reviewed. Source frequencies have not been independently audited against original paper PDFs. No public content migration; source remains read-only.
 
 
 ## 15 November 2026 — NAV theory inventory reconciliation
