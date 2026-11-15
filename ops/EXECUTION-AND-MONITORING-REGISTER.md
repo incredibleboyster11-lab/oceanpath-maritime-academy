@@ -497,3 +497,17 @@
 | ID | Updated status | Evidence / next deliverable | Gate |
 |---|---|---|---|
 | OP-03 | NA stability cross-book map extended to XNA-025 | Batch 25 report; Draft 20 | Full answer-body review and regulatory currency checks remain |
+
+
+## 15 November 2026 — NA subdivision / fire integrity batch 26
+
+- Compared NA I B01–B14 and B16–B17 with NA II K1–K6 and L1–L9.
+- Added XNA-026 to XNA-037 and report `docs/NAVAL-ARCHITECTURE-SUBDIVISION-FIRE-INTEGRATION-BATCH-26.md`.
+- Confirmed integration is complementary, not answer duplication: WT boundaries / doors / tests preserve subdivision; K-series addresses passenger subdivision and damage condition; L-series addresses fire objectives, divisions and testing.
+- Preserved source corrections: P1/P2/P3 subdivision load lines are current source terminology; factor-of-subdivision A/B is not Load Line Convention Type A/B; no L7 answer is listed.
+- Flagged January 2026 SOLAS II-2 amendments for current fire-safety review.
+- No source PDFs or original study repos modified.
+
+| ID | Updated status | Evidence / next deliverable | Gate |
+|---|---|---|---|
+| OP-03 | NA subdivision / fire integration extended to XNA-037 | Batch 26 report; Draft 21 | Current SOLAS / flag review required |
