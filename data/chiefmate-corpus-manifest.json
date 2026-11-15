@@ -1,0 +1,212 @@
+{
+  "manifest_version": "0.1.0",
+  "created_at": "2026-11-15",
+  "purpose": "Internal inventory of author-supplied Chief Mate learning books for OceanPath migration planning. This is metadata only; it contains no answer text, oral-report details, surveyor identities or learner personal data.",
+  "source_permission": {
+    "author_confirmation": "The author explicitly confirmed in this project conversation that all nine uploaded PDFs are their own work/data and authorised OceanPath to use them.",
+    "scope": "Use of the author's original authored content for internal audit, transformation, derivative learning units and project implementation.",
+    "limitations": [
+      "Embedded third-party exam papers/question wording, statutory or convention extracts, textbooks, third-party diagrams/tables/images, fonts, logos and other assets require component-level review.",
+      "Oral-report-derived and surveyor-profile material requires privacy/confidentiality screening and anonymisation before public release.",
+      "This record is not a legal opinion or trademark clearance."
+    ]
+  },
+  "corpus_totals": {
+    "files": 9,
+    "pages": 3265,
+    "declared_answers_written_books": 632,
+    "declared_numericals": 232,
+    "oral_question_counts": 2741
+  },
+  "count_note": "The totals above are arithmetic sums of source-declared cover/about-page metrics, not independently reconciled unique learning-unit counts. Oral question counts are 720 + 1009 + 1012. Written answer counts are 146 + 70 + 74 + 177 + 103 + 62. Numerical count is 27 + 73 + 51 + 81.",
+  "sources": [
+    {
+      "code": "MEK",
+      "file": "MEK_Engineering_Knowledge_Interactive.pdf",
+      "title": "Engineering Knowledge, Instruments & Control Systems",
+      "pages": 240,
+      "stage": "Phase II written",
+      "declared": {
+        "answers": 146,
+        "numericals": 27,
+        "past_papers": 48
+      },
+      "content_types": [
+        "theory_answers",
+        "worked_numericals",
+        "past_paper_index",
+        "diagrams"
+      ],
+      "review_status": "received_opened_index_extraction_pending"
+    },
+    {
+      "code": "F3",
+      "file": "F3 Orals – Chief Mate (latest).pdf",
+      "title": "Chief Mate F3 Orals",
+      "pages": 387,
+      "stage": "Chief Mate oral Function 3",
+      "declared": {
+        "questions": 720,
+        "topics": 9,
+        "surveyor_profiles": 51
+      },
+      "content_types": [
+        "oral_questions",
+        "answers",
+        "topic_prioritisation",
+        "surveyor_profiles"
+      ],
+      "review_status": "received_opened_index_extraction_pending"
+    },
+    {
+      "code": "NA",
+      "file": "Chief_Mate_Naval_Architecture_II_Interactive.pdf",
+      "title": "Chief Mate Naval Architecture II",
+      "pages": 299,
+      "stage": "Phase II written",
+      "declared": {
+        "answers": 70,
+        "numericals": 73,
+        "past_papers": 39
+      },
+      "content_types": [
+        "theory_answers",
+        "worked_numericals",
+        "past_paper_index",
+        "diagrams"
+      ],
+      "review_status": "received_opened_index_extraction_pending"
+    },
+    {
+      "code": "F2",
+      "file": "F2 Orals – Chief Mate (latest).pdf",
+      "title": "Chief Mate F2 Orals",
+      "pages": 682,
+      "stage": "Chief Mate oral Function 2",
+      "declared": {
+        "questions": 1009,
+        "topics": 9,
+        "surveyor_profiles": 69
+      },
+      "content_types": [
+        "oral_questions",
+        "answers",
+        "topic_prioritisation",
+        "surveyor_profiles"
+      ],
+      "review_status": "received_opened_index_extraction_pending"
+    },
+    {
+      "code": "NAV",
+      "file": "Chief_Mate_Navigational_Aids_Interactive.pdf",
+      "title": "Chief Mate Navigational Aids & Compass",
+      "pages": 237,
+      "stage": "Phase II written",
+      "declared": {
+        "answers": 74,
+        "numericals": 51,
+        "past_papers": 38
+      },
+      "content_types": [
+        "theory_answers",
+        "worked_numericals",
+        "past_paper_index",
+        "diagrams"
+      ],
+      "review_status": "received_opened_index_extraction_pending"
+    },
+    {
+      "code": "LAW",
+      "file": "Chief_Mate_Maritime_Law_Interactive.pdf",
+      "title": "Chief Mate Maritime Legislation",
+      "pages": 314,
+      "stage": "Phase II written",
+      "declared": {
+        "answers": 177,
+        "extra_notes": 12,
+        "past_papers": 39,
+        "questions_checked": 351
+      },
+      "content_types": [
+        "legislation_answers",
+        "extra_notes",
+        "sections_articles_index",
+        "yearwise_regulatory_events",
+        "past_paper_crosswalk"
+      ],
+      "review_status": "received_opened_index_extraction_pending"
+    },
+    {
+      "code": "F1",
+      "file": "F1 Orals – Chief Mate (latest).pdf",
+      "title": "Chief Mate F1 Orals",
+      "pages": 534,
+      "stage": "Chief Mate oral Function 1",
+      "declared": {
+        "questions": 1012,
+        "topics": 9,
+        "surveyor_profiles": 50
+      },
+      "content_types": [
+        "oral_questions",
+        "answers",
+        "topic_prioritisation",
+        "surveyor_profiles"
+      ],
+      "review_status": "received_opened_index_extraction_pending"
+    },
+    {
+      "code": "BWK",
+      "file": "Bridge_Watchkeeping_SAR_Ship_Handling_Interactive.pdf",
+      "title": "Bridge Watchkeeping, SAR & Ship Handling",
+      "pages": 144,
+      "stage": "Phase II written",
+      "declared": {
+        "answers": 103,
+        "past_papers": 35,
+        "sketches": 31
+      },
+      "content_types": [
+        "theory_answers",
+        "sketches",
+        "past_paper_crosswalk"
+      ],
+      "review_status": "received_opened_index_extraction_pending"
+    },
+    {
+      "code": "NA1",
+      "file": "Naval Architecture I – Chief Mate Phase I (latest).pdf",
+      "title": "Chief Mate Naval Architecture I",
+      "pages": 428,
+      "stage": "Phase I written",
+      "declared": {
+        "answers": 62,
+        "numericals": 81,
+        "past_papers": 42
+      },
+      "content_types": [
+        "theory_answers",
+        "worked_numericals",
+        "past_paper_index",
+        "diagrams"
+      ],
+      "review_status": "received_opened_index_extraction_pending"
+    }
+  ],
+  "migration_rules": {
+    "original_sources": "Read-only. Never modify, overwrite, move or rename the uploaded PDFs or source repository files.",
+    "derivatives": "Create separate OceanPath learning units with provenance to source code, filename, page range and source version.",
+    "initial_publication_state": "draft",
+    "initial_review_state": "not-reviewed",
+    "third_party_rights_state": "review-required",
+    "privacy_state": "screening-required",
+    "technical_validation": "qualified human review required for safety-critical, regulatory, legal and numerical content."
+  },
+  "next_steps": [
+    "Extract complete index/topic hierarchy and question/answer identifiers for each book.",
+    "Reconcile source-declared counts against actual indexed units and detect cross-book duplicates.",
+    "Create page-level source-to-learning-unit mappings.",
+    "Run component-level rights/privacy screening and qualified technical review.",
+    "Pilot one low-risk topic as a separate derivative before scaling."
+  ]
+}
