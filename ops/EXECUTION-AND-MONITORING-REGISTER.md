@@ -92,3 +92,11 @@
 |---|---|---|---|
 | OP-03 | NAV fully inventoried (74 theory + 51 numerical); BWK index inventory reconciled (103/103) | NAV inventory files; `data/bwk-content-question-inventory-batch-01.md`; `data/bwk-content-question-inventory-batch-02.md` | BWK answer-body QA and technical/regulatory/privacy review before release |
 | OP-04 | NAV row-level map complete; BWK topic-index map complete | Answer-body QA and cross-book question-level overlap report | Original sources remain read-only; derivatives internal until cleared |
+
+
+## 15 November 2026 — BWK answer-body QA / NAV cross-match batch 01
+- Inspected BWK Topic 1 answer pages 10–26 and verified index-to-answer presence for all 15 R-cards (R1–R15). This is structural presence QA, not technical/regulatory validation.
+- Compared BWK SAR/MOB and sampled BWK ship-handling material with NAV autopilot/controlled-radius turn material. No exact duplicate identified in the inspected scope.
+- Classified NAV controlled-radius turns (ROTI, WOP, WOL, VRM) versus BWK turning-circle / ship-handling cards as complementary or distinct learning units, not duplicates.
+- Full BWK answer-body QA remains incomplete; Topic 7 was sampled, and Topics 2–6 and 8–12 remain for later batches.
+- Detailed findings and limitations: [BWK-NAV batch 01](../data/bwk-nav-answer-body-qa-crossmatch-batch-01.md).
