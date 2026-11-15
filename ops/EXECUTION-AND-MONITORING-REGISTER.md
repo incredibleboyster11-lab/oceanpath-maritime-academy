@@ -511,3 +511,17 @@
 | ID | Updated status | Evidence / next deliverable | Gate |
 |---|---|---|---|
 | OP-03 | NA subdivision / fire integration extended to XNA-037 | Batch 26 report; Draft 21 | Current SOLAS / flag review required |
+
+
+## 15 November 2026 — NA surveys / Load Line / Tonnage batch 27
+
+- Compared NA I V01–V15 with NA II M1–M9 and N1–N5.
+- Added XNA-038 to XNA-046 and report `docs/NAVAL-ARCHITECTURE-SURVEYS-LOADLINE-TONNAGE-BATCH-27.md`.
+- Direct practical overlap: V11 Load Line survey preparation ↔ M9 Load Line survey.
+- HSSC, ESP, CAP and CAS remain connected but distinct; tonnage measurement remains a separate NA II family.
+- Added 2026 ESP Code amendment as a dated update hook: Administration oversight / audits of thickness-measurement firms. Do not silently rewrite historical source answers.
+- No source PDFs or original study repos modified.
+
+| ID | Updated status | Evidence / next deliverable | Gate |
+|---|---|---|---|
+| OP-03 | NA surveys / Load Line / Tonnage integration extended to XNA-046 | Batch 27 report; Draft 22 | Current convention / flag review and qualified surveyor review |
