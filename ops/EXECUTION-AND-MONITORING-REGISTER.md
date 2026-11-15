@@ -525,3 +525,17 @@
 | ID | Updated status | Evidence / next deliverable | Gate |
 |---|---|---|---|
 | OP-03 | NA surveys / Load Line / Tonnage integration extended to XNA-046 | Batch 27 report; Draft 22 | Current convention / flag review and qualified surveyor review |
+
+
+## 15 November 2026 — NA welding / corrosion / materials batch 28
+
+- Compared NA I W01–W08 and C01–C07 with NA II I1/I2/I3/I5/I6/I7 and J1–J3.
+- Added XNA-047 to XNA-063 and report `docs/NAVAL-ARCHITECTURE-WELDING-CORROSION-MATERIALS-BATCH-28.md`.
+- Strong integrations: weld NDT ↔ steel testing; corrosion cell / galvanic series / cathodic protection ↔ aluminium-steel joint protection; steel and aluminium material selection ↔ fabrication.
+- Preserved differences: general hull cathodic protection vs local dissimilar-metal electrical isolation; welding processes vs transition-joint design; steel tests vs weld NDT.
+- Source index omissions preserved: no I4 card in NA II; no invented card or renumbering.
+- No source PDFs or original study repos modified.
+
+| ID | Updated status | Evidence / next deliverable | Gate |
+|---|---|---|---|
+| OP-03 | NA welding / corrosion / materials integration extended to XNA-063 | Batch 28 report; Draft 23 | Qualified welding / NDT / naval architecture review before public release |
