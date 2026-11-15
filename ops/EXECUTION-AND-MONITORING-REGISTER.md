@@ -553,3 +553,17 @@
 | ID | Updated status | Evidence / next deliverable | Gate |
 |---|---|---|---|
 | OP-03 | NA numerical taxonomy mapped; two source count discrepancies opened | Batch 29 report; Draft 24 | Exact numerical ID reconciliation and independent solution verification |
+
+
+## 16 November 2026 — NA numerical count reconciliation batch 30
+
+- Reopened the detailed numerical-section pages in both original user-authored PDFs.
+- Corrected the NA I interpretation from batch 29: the detailed section openers show Simpson's bulkhead/deck area-centroid = 5 cards (S07, S08, S09, S18, S19) and dry-docking = 16 different questions. The front index's family labels/counts are transposed. The eight detailed families reconcile exactly to 81.
+- NA II detailed numerical section pp. 110–206 contains 20 bilging cards (BI01–BI20), 20 SF/BM cards (SF01–SF20), and 7 thrust/COP cards (CO01–CO07): 47 total. The front index still declares 73, leaving 26 unexplained. No extra family was invented; investigate whether the front-index count is stale or whether material is unindexed elsewhere.
+- Created `docs/NAVAL-ARCHITECTURE-NUMERICAL-BANK-RECONCILIATION-BATCH-30.md`.
+- This is structural/count QA only. No numerical solution has yet been independently verified; technical review and regulatory checks remain open. Original PDFs remain read-only.
+
+| ID | Updated status | Evidence / next deliverable | Gate |
+|---|---|---|---|
+| OP-03 | NA I numerical family counts reconciled to 81; front-index family labels corrected in derivative. NA II detailed section reconciles to 47 vs front-index 73; 26-item discrepancy remains open | `docs/NAVAL-ARCHITECTURE-NUMERICAL-BANK-RECONCILIATION-BATCH-30.md` | Full title/page inventory; inspect NA II outside pp. 110–206; independently recalculate worked examples |
+| OP-04 | Numerical bank reconciliation documented as internal derivative | Batch 30 memo | Qualified naval-architecture review before any public release |
