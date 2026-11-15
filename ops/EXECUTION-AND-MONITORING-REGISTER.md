@@ -212,3 +212,10 @@
 - Partial coverage: R1/R3/R4 OSC/IAMSAR structure, R5 datum/track spacing, R9 first-on-scene preparation, R10 missing crew, R11 general MOB, R12 turns (F1 Q27 only Williamson). R2 SMC duties and R14 heavy-weather recovery remain unmatched in inspected F1 scope.
 - Detailed mapping: [BWK–F1 SAR/MOB cross-match batch 07](../data/bwk-f1-sar-mob-crossmatch-batch-07.md).
 - Next: add confirmed F1/F3 SAR links to the concept register and continue remaining BWK topic comparisons. Original PDFs remain read-only.
+
+
+## 15 November 2026 — Cross-book concept register draft 03
+- Extended draft 02 with ten SAR/MOB concepts from cross-match batches 06–07: IAMSAR search patterns, SAR coordination, datum/track spacing, SOLAS V/33 distress obligations, MOB actions, MOB turns, TSS/fog MOB, heavy-weather recovery, Indian MRCC/MRSC and missing crew.
+- New register: `data/bwk-f1-f3-deduplicated-concept-register-draft-03.md`; drafts 01 and 02 retained as historical versions.
+- SAR/MOB mapping shows F1 has useful direct matches for search patterns, distress obligations, TSS MOB and Indian MRCCs; F3 has direct/partial matches for rescue turns and port MOB. SMC duties and heavy-weather recovery remain gaps in inspected F1/F3 scope.
+- This remains an internal BWK↔F1↔F3 candidate map, not a complete nine-book deduplication or publication approval.
