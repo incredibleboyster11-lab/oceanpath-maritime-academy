@@ -177,3 +177,14 @@
 - Created `data/bwk-f1-f3-deduplicated-concept-register-draft-01.md` consolidating cross-match batches 01–04 into 26 concept records plus complementary candidates, source differences, confidence and review gates.
 - Register is a draft, not full nine-book deduplication, technical approval or publication clearance. It records inspected-scope absences only and preserves all source PDFs as read-only.
 - Next: complete remaining F3↔BWK topic mappings (including broader F3 Topic 8 and BWK E14/E15, S5/S6 edge cases), then extend the concept register to all nine books with rights/privacy/reviewer metadata before any public migration.
+
+
+## 15 November 2026 — BWK↔F3 emergency / dry-dock safety cross-match, batch 05
+- Extended F3 Topic 8 and related Topic 3/6 review against BWK E10–E15 and S5.
+- E12 fixed CO2 release has a strong operational match in F3 T8 Q38 (engine-room fire / CO2 release precautions); Q9/Q12/Q21 are supporting test, system and PMS references only.
+- E10 abandon ship is related to F3 T8 Q34 foundering and Q30/Q11 drills, but operational abandonment and drill requirements remain separate objectives.
+- E11 fire-wallet / port-fire content is complementary to F3 T8 Q84 fire control plan, Q85 fire drill and Q38 engine-room fire; no full port-fire handover equivalent was established.
+- E14 chemical-tanker cargo-space fire / NLS spill has no direct match in inspected F3 scope. E15 engine-room flooding partially relates to F3 T8 Q29; blackout in TSS remains unmatched as an operational sequence. T3 Q6 lists blackout generally; T8 Q110 is steering failure in TSS, not blackout.
+- S5 gains additional complementary links to F3 T6 Q94 (worker death in dry dock), Q46/Q49/Q92 (critical-period and flooding hazards), without replacing BWK's broad yard-safety coverage.
+- Detailed map: [BWK–F3 emergency / dry-dock safety cross-match batch 05](../data/bwk-f3-emergency-drydock-crossmatch-batch-05.md).
+- Next: update the concept register and continue BWK/F3 cross-topic mapping where emergency and ship-handling objectives overlap. Original PDFs remain read-only; no public content migration.
