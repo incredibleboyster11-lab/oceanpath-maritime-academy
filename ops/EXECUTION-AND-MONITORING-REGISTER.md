@@ -39,5 +39,14 @@
 
 | ID | Updated status | Evidence / next deliverable | Gate |
 |---|---|---|---|
-| OP-03 | NAV answer-card extraction in progress; 63 card IDs captured from Topics 1–6 | `data/nav-content-question-inventory-batch-01.md`; `data/nav-content-question-inventory-batch-02.md`; continue Topic 7 onward and reconcile against 74 declared answers | Keep source frequencies labelled as source-declared; no public release without technical, regulatory, rights and privacy review |
-| OP-04 | Row-level NAV source mapping started | Complete NAV theory inventory, then separate 51-numerical inventory and cross-book duplicate analysis | Original PDFs read-only; derivatives remain internal drafts |
+| OP-03 | NAV theory inventory reconciled: 74 answer-card IDs across Topics 1–8 | `data/nav-content-question-inventory-batch-01.md`, `data/nav-content-question-inventory-batch-02.md`, `data/nav-content-question-inventory-batch-03.md`; next: reconcile 51 declared numerical cards | Keep source frequencies labelled as source-declared; no public release without technical, regulatory, rights and privacy review |
+| OP-04 | Row-level NAV source mapping complete for theory cards | Extract numerical IDs and page spans; then cross-book question-level overlap analysis | Original PDFs read-only; derivatives remain internal drafts |
+
+
+## 15 November 2026 — NAV theory inventory reconciliation
+
+- Completed direct extraction of the NAV PDF's Topics 7–8: AIS/LRIT (7 cards) and VDR/BNWAS (4 cards).
+- Reconciled all eight topic index counts to 74 theory answer-card IDs: 18 + 6 + 8 + 13 + 8 + 10 + 7 + 4 = 74, matching the book's declared 74 answers.
+- Added `data/nav-content-question-inventory-batch-03.md`; the three batches together provide titles, source page references and source-declared frequency labels for all 74 theory cards.
+- The separate numerical section begins at PDF page 91. The book declares 51 solved numerical cards; those IDs and page spans remain to be extracted and reconciled. Radar plotting Q1 begins with a guide and 19 different questions, so its internal card count needs careful reconciliation with the book-wide 51.
+- No answer text was migrated to public learning pages; source remains read-only.
