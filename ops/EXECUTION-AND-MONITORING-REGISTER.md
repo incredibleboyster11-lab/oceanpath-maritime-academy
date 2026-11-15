@@ -62,3 +62,16 @@
 - Added `data/nav-content-question-inventory-batch-03.md`; the three batches together provide titles, source page references and source-declared frequency labels for all 74 theory cards.
 - The separate numerical section begins at PDF page 91. The book declares 51 solved numerical cards; those IDs and page spans remain to be extracted and reconciled. Radar plotting Q1 begins with a guide and 19 different questions, so its internal card count needs careful reconciliation with the book-wide 51.
 - No answer text was migrated to public learning pages; source remains read-only.
+
+
+## 15 November 2026 — BWK question-level inventory started
+
+- Opened the BWK PDF directly. The index declares 103 answer cards across 12 topics and 35 old papers.
+- Extracted Topic 1 (Search and rescue, man overboard): R1–R15, 15 cards, with source page references in `data/bwk-content-question-inventory-batch-01.md`.
+- Topic 1's 15-card count reconciles to its index. The remaining 11 topics contain 88 further declared answer cards.
+- Source-declared paper-pattern statistics remain unverified against the underlying paper set. The PDF is read-only; no answer content migrated publicly.
+
+| ID | Updated status | Evidence / next deliverable | Gate |
+|---|---|---|---|
+| OP-03 | NAV fully inventoried: 74 theory + 51 numerical cards; BWK inventory started with 15/103 cards | `data/nav-content-question-inventory-batch-01.md` through `batch-03.md`; `data/nav-numerical-bank-inventory-and-reconciliation.md`; `data/bwk-content-question-inventory-batch-01.md` | Continue BWK topics; no public release without review |
+| OP-04 | NAV row-level inventory complete; BWK row-level inventory in progress | Complete BWK 103-card inventory, then question-level cross-book overlap analysis | Original PDFs read-only; derivatives remain internal drafts |
