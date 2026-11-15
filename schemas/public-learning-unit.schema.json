@@ -1,0 +1,69 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://oceanpath.example/schemas/public-learning-unit.schema.json",
+  "title": "OceanPath Public Learning Unit",
+  "description": "Versioned metadata for a reviewed public learning unit. This schema describes metadata only; it does not grant publication rights.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "content_id", "title", "rank", "department", "subject", "topic",
+    "content_type", "publication_status", "version", "source_provenance",
+    "rights_status", "review_status", "last_reviewed", "canonical_path"
+  ],
+  "properties": {
+    "content_id": { "type": "string", "pattern": "^[A-Z0-9][A-Z0-9:_-]{2,80}$" },
+    "title": { "type": "string", "minLength": 3, "maxLength": 180 },
+    "rank": { "type": "string", "enum": ["Second Mate", "Chief Mate", "Master", "Ratings", "Cross-rank", "Other"] },
+    "department": { "type": "string", "enum": ["Deck", "Engine", "ETO", "General", "Port & Terminal", "Shipbuilding", "Other"] },
+    "subject": { "type": "string", "minLength": 2, "maxLength": 100 },
+    "topic": { "type": "string", "minLength": 2, "maxLength": 160 },
+    "content_type": { "type": "string", "enum": ["answer", "lesson", "diagram", "mock-question", "oral-question", "video", "guide", "checklist", "other"] },
+    "exam_or_competency_mapping": { "type": "array", "items": { "type": "string" }, "default": [] },
+    "publication_status": { "type": "string", "enum": ["draft", "in-review", "approved", "published", "superseded", "withdrawn"] },
+    "version": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
+    "source_provenance": {
+      "type": "object", "additionalProperties": false,
+      "required": ["source_repository", "source_path", "source_ref"],
+      "properties": {
+        "source_repository": { "type": "string" },
+        "source_path": { "type": "string" },
+        "source_ref": { "type": "string" },
+        "source_blob_sha": { "type": "string" },
+        "source_document_title": { "type": "string" },
+        "source_publication_date": { "type": "string", "format": "date" }
+      }
+    },
+    "rights_status": { "type": "string", "enum": ["unknown", "permission-required", "permission-requested", "licensed", "owned-original", "public-domain-verified", "restricted", "rejected"] },
+    "rights_evidence_ref": { "type": ["string", "null"] },
+    "review_status": { "type": "string", "enum": ["not-reviewed", "subject-review-pending", "editorial-review-pending", "approved", "rejected", "review-expired"] },
+    "reviewer_role": { "type": ["string", "null"] },
+    "last_reviewed": { "type": "string", "format": "date" },
+    "next_review_due": { "type": ["string", "null"], "format": "date" },
+    "source_references": { "type": "array", "items": { "type": "string" }, "default": [] },
+    "canonical_path": { "type": "string", "pattern": "^/" },
+    "related_content_ids": { "type": "array", "items": { "type": "string" }, "default": [] },
+    "public_notes": { "type": ["string", "null"], "maxLength": 1000 },
+    "correction_history": {
+      "type": "array", "items": {
+        "type": "object", "additionalProperties": false,
+        "required": ["date", "version", "summary"],
+        "properties": {
+          "date": { "type": "string", "format": "date" },
+          "version": { "type": "string" },
+          "summary": { "type": "string", "maxLength": 500 }
+        }
+      }, "default": []
+    }
+  },
+  "allOf": [
+    {
+      "if": { "properties": { "publication_status": { "const": "published" } } },
+      "then": {
+        "properties": {
+          "rights_status": { "enum": ["licensed", "owned-original", "public-domain-verified"] },
+          "review_status": { "const": "approved" }
+        }
+      }
+    }
+  ]
+}
