@@ -194,3 +194,13 @@
 - Extended draft 01 with eight additional concepts from emergency and dry-dock safety cross-match batch 05: abandon ship/foundering, fire-wallet, fixed CO2 release, enclosed-space entry/rescue, chemical-tanker fire/NLS spill, flooding/foundering, blackout-in-TSS, and dry-dock fatality/yard safety.
 - New register: `data/bwk-f1-f3-deduplicated-concept-register-draft-02.md`; draft 01 retained as historical version.
 - The register remains an internal BWK↔F1↔F3 candidate map, not a nine-book full deduplication or public-content approval. Unmatched findings are limited to inspected source scope.
+
+
+## 15 November 2026 — BWK↔F3 SAR/MOB cross-match, batch 06
+- Inspected BWK R1–R15 (printed pp. 10–26) and relevant F3 Topic 7/8/3 answers.
+- Strong overlap: BWK R12 MOB turns ↔ F3 T7 Q48 (Williamson, Anderson and Scharnow). BWK's Lorén and double-turn coverage remains additional.
+- Partial/strong scenario overlap: BWK R11 MOB immediate actions/recovery ↔ F3 T8 Q104 (person fallen in water in port) and T7 Q48. F3 Q104 is port-specific; BWK R11 is broader at-sea response.
+- Partial: BWK R10 missing crew ↔ F3 T7 Q48 only for the manoeuvre options; F3 does not cover the wider Master's reporting/search duties in that answer.
+- F3 T8 Q78 assistance to a vessel on fire is related to distress assistance but is not a general SOLAS V/33 distress-message answer. BWK R1–R7, R13–R15 remain unmatched in inspected F3 scope.
+- Detailed map: [BWK–F3 SAR/MOB cross-match batch 06](../data/bwk-f3-sar-mob-crossmatch-batch-06.md).
+- Next: search F1 Topics 7/9 for SAR, MOB, distress-message and IAMSAR-related question IDs, then update the concept register. Original PDFs remain read-only.
