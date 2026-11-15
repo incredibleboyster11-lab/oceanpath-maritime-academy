@@ -265,3 +265,18 @@
 |---|---|---|---|
 | OP-03 | Cross-book audit extended through towing/tugs batch 10; Draft 06 contains XBK-001–061 | `data/bwk-f1-f3-crossbook-match-batch-10-towing-tugs.md`; `data/bwk-f1-f3-deduplicated-concept-register-draft-06.md` | Inspected-scope audit only; no technical or publication clearance |
 | OP-04 | Towing / tug / ETA source concepts mapped and classified | Batch 10 report | Official regulatory currency, rights, privacy and qualified technical review remain open |
+
+
+## 15 November 2026 — BWK↔F1↔F3 cross-book audit batch 11
+
+- Reopened BWK Topic 7 source pages for H1–H10 and compared inspected F1/F3 ship-handling passages.
+- Added `data/bwk-f1-f3-crossbook-match-batch-11-shiphandling-h1-h10.md` and concept register Draft 07 with XBK-062 to XBK-071.
+- Strong overlaps include squat, bank effect, ship-to-ship interaction, shallow-water effects and transverse thrust; pivot point and turning-circle material are complementary; passing moored ships, large-freeboard wind effects and restricted-water current effects remain unmatched in the inspected scope.
+- Kept formal turning-circle definitions separate from practical factors, and fixed-pitch propeller behaviour separate from CPP behaviour.
+- Candidate register now contains 71 IDs; still partial BWK↔F1↔F3 inspected-scope matching, not complete nine-book deduplication.
+- No source PDF, study repository or website files modified; no public migration or technical approval claimed.
+
+| ID | Updated status | Evidence / next deliverable | Gate |
+|---|---|---|---|
+| OP-03 | Cross-book audit extended through ship-handling H1–H10 batch 11; Draft 07 contains XBK-001–071 | `data/bwk-f1-f3-crossbook-match-batch-11-shiphandling-h1-h10.md`; `data/bwk-f1-f3-deduplicated-concept-register-draft-07.md` | Inspected-scope audit only; technical / publication clearance remains open |
+| OP-04 | Ship-handling H1–H10 source concepts mapped and classified | Batch 11 report | Qualified technical review, rights and privacy screening remain mandatory |
