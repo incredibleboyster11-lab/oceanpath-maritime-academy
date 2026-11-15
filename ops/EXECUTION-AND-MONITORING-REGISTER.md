@@ -1,3 +1,5 @@
+# EXECUTION AND MONITORING REGISTER
+
 
 
 ## 15 November 2026 — author permission and uploaded corpus milestone
@@ -24,3 +26,18 @@
 |---|---|---|---|
 | OP-03 | Nine-book topic-level index extraction completed; question-level inventory pending | `docs/CHIEF-MATE-TOPIC-LEVEL-SOURCE-MAP.md` | No claims of unique question counts until reconciled |
 | OP-04 | Topic-level migration architecture documented | Row-level source-to-unit map, then controlled pilot derivative | Originals remain read-only; review gates before publication |
+
+
+## 15 November 2026 — NAV question-level inventory extraction, batches 1–2
+
+- Read the uploaded NAV PDF directly and extracted answer-card IDs and titles from Topics 1–6. Source pages and source-declared frequency metadata are preserved in two internal inventory files:
+  - `data/nav-content-question-inventory-batch-01.md` — 32 rows covering Magnetic Compass, Gyro Compass, Autopilot/Steering/Turns (including T1 and T2).
+  - `data/nav-content-question-inventory-batch-02.md` — 31 additional rows covering Echo Sounder/Logs/SDME, Performance Standards/Carriage and GPS/GNSS/ECDIS; confirms T2's page location.
+- Cumulative extracted NAV theory-card IDs: 63. This is a partial extraction, not the full book total. The book declares 74 theory answers; later topics remain to be extracted and reconciled. The 51 declared numericals remain a separate inventory task.
+- Source-declared paper frequencies have not been independently checked against original past-paper PDFs. Do not present them as verified exam statistics.
+- No answer content was migrated to public learning pages. Source PDF remains read-only.
+
+| ID | Updated status | Evidence / next deliverable | Gate |
+|---|---|---|---|
+| OP-03 | NAV answer-card extraction in progress; 63 card IDs captured from Topics 1–6 | `data/nav-content-question-inventory-batch-01.md`; `data/nav-content-question-inventory-batch-02.md`; continue Topic 7 onward and reconcile against 74 declared answers | Keep source frequencies labelled as source-declared; no public release without technical, regulatory, rights and privacy review |
+| OP-04 | Row-level NAV source mapping started | Complete NAV theory inventory, then separate 51-numerical inventory and cross-book duplicate analysis | Original PDFs read-only; derivatives remain internal drafts |
