@@ -404,3 +404,19 @@
 | ID | Updated status | Evidence / next deliverable | Gate |
 |---|---|---|---|
 | OP-04 | Regulatory gap research batch 19 completed; Safety Committee and Polar topics ready for source-led draft; chemical tanker fire remains open | `docs/REGULATORY-GAP-RESEARCH-BATCH-19-SAFETY-POLAR-CHEMICAL-FIRE.md`; concept register Draft 15 | Current flag/company / COSWP verification; qualified Polar Code and chemical-tanker review |
+
+
+## 15 November 2026 — Internal answer drafting batch 20
+
+- Created `drafts/BWK-GAP-ANSWERS-BATCH-20-SAFETY-COMMITTEE-POLAR-NAVIGATION.md`.
+- Drafted source-led exam answers for XBK-101 Safety Committee and XBK-102 Polar Code navigation requirements / existing-ship provisions.
+- Safety Committee agenda labelled a synthesis based on ILO / MCA guidance, not a universal statutory agenda.
+- Polar answer separates original Chapter 9 construction-date thresholds from MSC.538(107) Chapter 9-1 effective 1 Jan 2026; Administration-specific implementation check remains required.
+- XBK-103 chemical-tanker Type 1/2 cargo-space fire intentionally remains undrafted as a generic operational checklist pending current consolidated IBC/FSS/SOLAS text, cargo-specific approved procedures and specialist review.
+- Drafts are internal and not approved for public release.
+- No source PDFs, study repositories or website files modified.
+
+| ID | Updated status | Evidence / next deliverable | Gate |
+|---|---|---|---|
+| OP-04 | Safety Committee and Polar navigation gap answers drafted internally in batch 20 | `drafts/BWK-GAP-ANSWERS-BATCH-20-SAFETY-COMMITTEE-POLAR-NAVIGATION.md`; concept register Draft 16 | Qualified technical / regulatory review before publication |
+| OP-03 | Candidate register remains 103 concepts; Draft 16 records gap-draft statuses | `data/bwk-f1-f3-deduplicated-concept-register-draft-16.md` | Partial BWK↔F1↔F3 register only |
