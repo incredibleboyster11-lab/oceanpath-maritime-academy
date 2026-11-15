@@ -483,3 +483,17 @@
 | ID | Updated status | Evidence / next deliverable | Gate |
 |---|---|---|---|
 | OP-03 | XNA-001 diagram-level source comparison completed; reclassified as related variants, not duplicate | Batch 24 comparison memo; Draft 19 | Full-resolution figure inspection before public visual redraw |
+
+
+## 15 November 2026 — NA stability cross-book map batch 25
+
+- Compared NA I Topic 4 G01–G15 selected cards with NA II Topics 1–5.
+- Added `docs/NAVAL-ARCHITECTURE-STABILITY-CROSS-BOOK-MAP-BATCH-25.md` and concept register Draft 20.
+- Added XNA-014 to XNA-025: beam / GZ, angle of loll, grain criteria / VHM, intact / weather criteria, dynamical stability, GM estimation, cargo shift, KN curves, booklet contents and numerical-theory bridges.
+- Identified two high-value near-duplicates: NA I G02 ↔ NA II A3 (beam effect) and NA I G03 ↔ NA II A4 (angle of loll), but preserved the extra scope in NA I cards.
+- Kept Grain Code criteria distinct from grain heeling-arm curve, and general intact criteria distinct from weather criterion.
+- No source PDFs or study repositories modified.
+
+| ID | Updated status | Evidence / next deliverable | Gate |
+|---|---|---|---|
+| OP-03 | NA stability cross-book map extended to XNA-025 | Batch 25 report; Draft 20 | Full answer-body review and regulatory currency checks remain |
