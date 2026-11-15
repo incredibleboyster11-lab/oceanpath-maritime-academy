@@ -420,3 +420,21 @@
 |---|---|---|---|
 | OP-04 | Safety Committee and Polar navigation gap answers drafted internally in batch 20 | `drafts/BWK-GAP-ANSWERS-BATCH-20-SAFETY-COMMITTEE-POLAR-NAVIGATION.md`; concept register Draft 16 | Qualified technical / regulatory review before publication |
 | OP-03 | Candidate register remains 103 concepts; Draft 16 records gap-draft statuses | `data/bwk-f1-f3-deduplicated-concept-register-draft-16.md` | Partial BWK↔F1↔F3 register only |
+
+
+## 15 November 2026 — Chemical tanker fire / NLS research batch 21
+
+- Added `docs/REGULATORY-GAP-RESEARCH-BATCH-21-CHEMICAL-TANKER-FIRE-NLS.md`.
+- Retrieved the exact BWK source question (Nov 2022 Q2) and confirmed E14's NLS spill answer exists while the cargo-space fire answer is explicitly marked not yet covered.
+- Key interpretation: IMO Type 1 / Type 2 are chemical-tanker design categories based on cargo hazards, not fire classes. Fire medium cannot be selected from ship type alone.
+- Located IBC Code Chapter 11 provisions: 11.3 fixed deck foam (cargo compatibility and coverage); 11.4 fixed dry chemical powder for deck cargo area / connections when flammable products are carried; 11.5 fixed systems for enclosed cargo-handling machinery spaces. These systems must not be misrepresented as a universal tank-interior extinguishing method.
+- Located IBC 16.2.3 cargo information requirements (including fire-fighting procedures / media) and 16.3.3 officer training for leakage, spillage and fire. SOLAS II-2 Reg.16 requires fire-safety operational booklet with IBC references.
+- Kept NLS spill plan separate and flagged that oil-spill techniques / absorbents / dispersants cannot be assumed chemically compatible with every NLS.
+- Added a role-based educational response architecture, not a vessel-approved operational checklist.
+- XBK-103 is now research-supported but remains open for specialist technical approval and controlled current-code review.
+- No source PDFs, study repositories or website files modified; no public migration or approval claimed.
+
+| ID | Updated status | Evidence / next deliverable | Gate |
+|---|---|---|---|
+| OP-04 | Chemical tanker fire / NLS source research batch 21 completed; XBK-103 research-supported, not approved | `docs/REGULATORY-GAP-RESEARCH-BATCH-21-CHEMICAL-TANKER-FIRE-NLS.md` | Current IBC/FSS/SOLAS controlled texts, cargo-specific media, specialist review |
+| OP-03 | Candidate register remains 103 concepts; XBK-103 research status refined | Draft 16 + Batch 21 memo | Nine-book deduplication still incomplete |
