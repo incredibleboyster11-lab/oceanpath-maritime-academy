@@ -6,7 +6,7 @@
 
 ## Current finding
 
-The source repository contains a Hub catalogue, a production tracker and a video metadata directory. The catalogue points to nine Chief Mate learning groups. The tracker contains 1289 data rows across F1: 295, F2: 313, F3: 239, MEK: 116, NAV: 68, BWK: 63, LAW: 121, NA: 74. The video directory currently lists 64 JSON metadata files. These are inventory facts only; they do not establish ownership or permission.
+The source repository contains a Hub catalogue, a production tracker and a video metadata directory. The catalogue points to nine Chief Mate learning groups. The tracker contains 1289 data rows across F1: 295, F2: 313, F3: 239, MEK: 116, NAV: 68, BWK: 63, LAW: 121, NA: 74. The video directory contains 64 JSON metadata files, all individually fetched and parsed in this pass. They contain production/distribution metadata, including captions/descriptions, playlist and platform identifiers, subject/topic identifiers and differing record shapes. Some contain internal oral-question frequency/recency data. Some series records contain a `made_by` field, but this does not prove rights ownership or permission. The inspected metadata did not establish written licences, assignments, contributor releases or a complete third-party rights trail.
 
 **Overall rights status: UNKNOWN — NOT CLEARED FOR PUBLICATION.**
 
