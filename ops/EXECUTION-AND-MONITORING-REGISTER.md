@@ -16,11 +16,11 @@
 | ID | Workstream | Initial status | Next evidence / deliverable | Gate |
 |---|---|---|---|---|
 | OP-01 | Governance and source protection | In progress | Confirm branch/repository boundaries and source immutability | No source material modified |
-| OP-11 | Public content metadata schema | Created; validation pending | Validate schema against sample approved content and add lint checks | No publication unless rights + review gates pass |
+| OP-11 | Public content metadata schema | Draft sample validated; publication guard tested | Add repeatable automated validation/linting in a controlled workflow | No publication unless rights + review gates pass |
 | OP-12 | Regulatory change watch | Created; first official-source scan due | Populate exact document-level entries and affected content map | No learner-facing change based on rumours |
 | OP-13 | Security and recovery baseline | Checklist created; implementation unverified | Enable MFA/protection, select hosting/backup and complete first restore test | Do not claim controls complete without evidence |
 | OP-02 | Brand and legal clearance | Not started | Domain, trademark and name screening; record counsel advice if needed | No claim of clearance before checks |
-| OP-03 | Content inventory and rights register | Baseline created; detailed audit in progress | Inspect individual video metadata and external learning artifacts; obtain written rights evidence | No unverified material published |
+| OP-03 | Content inventory and rights register | 64/64 video metadata files individually inspected; artifact bodies and rights evidence still blocked | Obtain authorized artifact access and written rights/contributor evidence | No unverified material published |
 | OP-04 | Public-safe Chief Mate migration map | Nine-group baseline mapped; publication blocked | Map stable content IDs and canonical routes after rights clearance | Rights + review + mobile QA |
 | OP-05 | Regulatory watch register | Not started | Exact circular/document, issue/effective date, affected content and action | Review relevant changes within 5 working days |
 | OP-06 | Security baseline | Not started | MFA, least privilege, protected branch, backup and restore test | Verified recovery path |
@@ -57,7 +57,7 @@
 |---|---|---|---|
 | 15 Nov 2026 | Initial baseline established from the master blueprint | Weekly, monthly and quarterly review cadence defined | Start with governance, content rights/provenance, regulatory watch and security baseline |
 | 15 Nov 2026 | Phase 0 operating documents created | Public content schema, regulatory watch log and security/recovery checklist added | Validate schema, populate exact regulatory source records, and implement/test security controls |
-| 15 Nov 2026 | Chief Mate baseline inventory and rights register created | 9 Hub groups catalogued; 1,289 tracker rows aggregated (F1 295, F2 313, F3 239, MEK 116, NAV 68, BWK 63, LAW 121, NA 74); 64 video metadata files listed with SHAs | Detailed artifact/video review and rights evidence remain outstanding; no content cleared for publication |
+| 15 Nov 2026 | Chief Mate baseline inventory and rights register created | 9 Hub groups catalogued; 1,289 tracker rows aggregated; 64 video metadata files listed with SHAs | Detailed artifact/video review and rights evidence remain outstanding; no content cleared for publication |\n| 15 Nov 2026 | Detailed video metadata pass completed | All 64 JSON metadata files fetched and parsed; varied metadata shapes, platform IDs, captions and internal frequency fields identified; external artifact access blocker recorded | Keep publication blocked; obtain artifact bodies and written rights evidence before content mapping |
 
 ## Rules for keeping this register honest
 
