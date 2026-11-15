@@ -100,3 +100,10 @@
 - Classified NAV controlled-radius turns (ROTI, WOP, WOL, VRM) versus BWK turning-circle / ship-handling cards as complementary or distinct learning units, not duplicates.
 - Full BWK answer-body QA remains incomplete; Topic 7 was sampled, and Topics 2–6 and 8–12 remain for later batches.
 - Detailed findings and limitations: [BWK-NAV batch 01](../data/bwk-nav-answer-body-qa-crossmatch-batch-01.md).
+
+
+## 15 November 2026 — BWK Topic 7 and VTS/SAR cross-match batch 02
+- Inspected BWK Topic 7 answer pages 71–93. H1–H5 and H8–H20 were visible; H6–H7 exact answer spans remain to be confirmed. This is presence/mapping QA, not technical verification.
+- Compared BWK ship-handling cards with NAV autopilot, wheel-over, ROTI and controlled-radius turn material: no exact duplicate established; units are complementary and should remain separate.
+- Compared BWK VTS / ship reporting / routeing cards (V1–V4) and SAR cards with NAV AIS/LRIT/ECDIS. These are complementary shipboard-equipment versus shore-service / SAR-response perspectives, not duplicates.
+- Details and source-page limitations: [BWK-NAV batch 02](../data/bwk-nav-answer-body-qa-crossmatch-batch-02.md).
