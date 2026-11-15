@@ -151,3 +151,12 @@
 - Regulatory currency lead: IMO MSC.538(107) Polar Code amendments entered into force 1 Jan 2026. Applicability depends on ship category, tonnage, voyage and construction date; verify the current official text before any answer is updated.
 - Detailed source map and limitations: [BWK–F1–F3 candidate cross-match batch 02](../data/bwk-f1-f3-crossbook-match-candidates-batch-02.md).
 - Next: exact F1 Topic 1 Watchkeeping/COLREG mapping against BWK W1–W13; inspect F3 Topic 6 dry-dock answer bodies against BWK S4–S6; extend F3 Topic 8 search for any further matches before declaring gaps.
+
+
+## 15 November 2026 — BWK↔F1 Watchkeeping/COLREG cross-match, batch 03
+- Inspected BWK Topic 9 W1–W13 (printed pp. 98–108) and cross-referenced F1 Topic 1 COLREG, Topic 9 STCW/SOLAS and relevant Topic 4 weather material.
+- Strong/direct matches: W3↔F1 T9 Q23/Q24; W4↔T9 Q2/Q17/Q29; W5↔T9 Q3; W6↔T1 Q2; W7↔T1 Q3; W8↔T1 Q103/Q8/Q29; W9↔T1 Q6 and rule-specific questions; W11↔T1 Q1/Q4/Q7/Q9 plus T9 Q3; W12↔T9 Q18; W13↔T1 Q30/T9 Q9.
+- W1/W2 have complementary rather than exact matches in F1 T9 Q1/Q23; W10 has only partial weather/equipment cross-references in the inspected F1 material and remains a distinct operational learning unit.
+- Corrected the mapping scope: F1 watchkeeping questions are primarily in Topic 9, COLREG in Topic 1 and heavy-weather context partly in Topic 4. Do not treat all as Topic 1 duplicates.
+- Detailed map: [BWK–F1 Watchkeeping/COLREG cross-match batch 03](../data/bwk-f1-watchkeeping-colreg-crossmatch-batch-03.md).
+- Next: inspect F3 Topic 6 dry-dock answers against BWK S4–S6; then consolidate cross-book candidate batches into a provenance-preserving concept register. No source PDFs modified and no public learning units created.
