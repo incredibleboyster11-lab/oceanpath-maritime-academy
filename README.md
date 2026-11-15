@@ -17,3 +17,6 @@ GitHub Actions deploys the repository root to GitHub Pages when `main` changes. 
 
 ## Important
 OceanPath Maritime Academy is a working brand name only. It is an independent learning resource, not a DG Shipping, MMD, IMU or government portal and does not issue Certificates of Competency. No registration or personal-data collection is implemented.
+
+
+Deployment setup: In repository Settings → Pages, set Source to GitHub Actions. The workflow in `.github/workflows/deploy.yml` publishes this static site.
