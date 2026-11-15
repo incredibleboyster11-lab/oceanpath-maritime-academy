@@ -280,3 +280,19 @@
 |---|---|---|---|
 | OP-03 | Cross-book audit extended through ship-handling H1–H10 batch 11; Draft 07 contains XBK-001–071 | `data/bwk-f1-f3-crossbook-match-batch-11-shiphandling-h1-h10.md`; `data/bwk-f1-f3-deduplicated-concept-register-draft-07.md` | Inspected-scope audit only; technical / publication clearance remains open |
 | OP-04 | Ship-handling H1–H10 source concepts mapped and classified | Batch 11 report | Qualified technical review, rights and privacy screening remain mandatory |
+
+
+## 15 November 2026 — BWK↔F1↔F3 cross-book audit batch 12
+
+- Reopened BWK Topic 7 pp. 84–92 and compared H11–H20 with inspected F1/F3 source passages.
+- Added `data/bwk-f1-f3-crossbook-match-batch-12-shiphandling-h11-h20.md` and concept register Draft 08 with XBK-072 to XBK-081.
+- Strong overlaps: BWK H14 short-round turn ↔ F1 fixed-pitch short-turn questions; BWK H16 pooping/broaching ↔ F3 T5 Q28.
+- Complementary coverage: CPP ↔ F3 transverse-thrust material; rolling ↔ F3 rolling-period material; following-sea capsize ↔ F3 pooping/broaching and rolling-period material; heavy-weather manoeuvring ↔ F3 preparation/ballast; stopping distance ↔ F1 wheelhouse poster.
+- Kept CPP separate from fixed-pitch, short-turn examples for RH separate from BWK's LH procedure, and stopping distance separate from rudder cycling.
+- Candidate register now contains 81 IDs; partial BWK↔F1↔F3 inspected-scope audit only.
+- No source PDFs, study repositories or website files modified; no public migration or technical approval claimed.
+
+| ID | Updated status | Evidence / next deliverable | Gate |
+|---|---|---|---|
+| OP-03 | Cross-book audit extended through ship-handling H11–H20 batch 12; Draft 08 contains XBK-001–081 | `data/bwk-f1-f3-crossbook-match-batch-12-shiphandling-h11-h20.md`; `data/bwk-f1-f3-deduplicated-concept-register-draft-08.md` | Inspected-scope audit only; not complete nine-book deduplication |
+| OP-04 | Ship-handling H11–H20 concepts mapped and classified | Batch 12 report | Qualified technical/regulatory review, rights and privacy screening remain mandatory |
