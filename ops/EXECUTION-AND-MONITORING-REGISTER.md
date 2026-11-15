@@ -539,3 +539,17 @@
 | ID | Updated status | Evidence / next deliverable | Gate |
 |---|---|---|---|
 | OP-03 | NA welding / corrosion / materials integration extended to XNA-063 | Batch 28 report; Draft 23 | Qualified welding / NDT / naval architecture review before public release |
+
+
+## 15 November 2026 — NA numerical taxonomy / reconciliation batch 29
+
+- Reopened NA I and NA II numerical indexes and selected detailed numerical pages.
+- Added XNA-064 to XNA-073 and `docs/NAVAL-ARCHITECTURE-NUMERICAL-BANK-RECONCILIATION-BATCH-29.md`.
+- NA I source index displays 8 families totalling 81 if dry-docking is counted as 5; detailed dry-docking page states 16 different questions. Marked unresolved pending exact numerical ID audit.
+- NA II declares 73 worked numericals, but its visible index groups are 20 bilging + 20 SF/BM + 7 thrust/COP = 47. Flagged 26-question gap; no missing groups invented.
+- Mapped shared mathematical foundations while preserving differences between centroid / centre of pressure, grounding / bilging, docking / SF-BM, intact / damage stability.
+- No source PDFs or original study repositories modified.
+
+| ID | Updated status | Evidence / next deliverable | Gate |
+|---|---|---|---|
+| OP-03 | NA numerical taxonomy mapped; two source count discrepancies opened | Batch 29 report; Draft 24 | Exact numerical ID reconciliation and independent solution verification |
