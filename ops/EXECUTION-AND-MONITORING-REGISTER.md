@@ -470,3 +470,16 @@
 |---|---|---|---|
 | OP-03 | Nine-book integration started with NA I ↔ NA II batch 23; 13 XNA cross-book relationships created | `docs/NAVAL-ARCHITECTURE-I-II-CROSS-BOOK-MAP-BATCH-23.md`; Draft 18 | First-pass only; diagram and answer-body comparisons pending |
 | OP-04 | NA I / NA II regulatory currency watch flagged for 2026 SOLAS changes | IMO January 2026 SOLAS supplement and IMO 2026 rules summary | Qualified technical / regulatory review before publication |
+
+
+## 15 November 2026 — NA I / NA II diagram comparison batch 24
+
+- Reopened exact answer bodies and diagram descriptions for NA I B15 (printed pp. 96–97) and NA II G9 (printed p. 51).
+- Corrected the first-pass XNA-001 classification: not a confirmed duplicate. NA I B15 is explicitly a single-skin bulk carrier; NA II G9 is a bulk carrier / double-skin variant and adds high-density-cargo strengthening.
+- Preserved two source variants under a recommended parent concept; prohibited silent mixing of double-skin features into the single-skin sketch.
+- Added `docs/NAVAL-ARCHITECTURE-BULK-CARRIER-SKETCH-COMPARISON-BATCH-24.md` and register Draft 19.
+- Full-resolution visual QA of original figures remains a final gate before public redraw.
+
+| ID | Updated status | Evidence / next deliverable | Gate |
+|---|---|---|---|
+| OP-03 | XNA-001 diagram-level source comparison completed; reclassified as related variants, not duplicate | Batch 24 comparison memo; Draft 19 | Full-resolution figure inspection before public visual redraw |
