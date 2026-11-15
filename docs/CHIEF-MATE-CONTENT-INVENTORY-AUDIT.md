@@ -1,57 +1,35 @@
-# Chief Mate Content Inventory — Baseline Audit
 
-**Date:** 15 November 2026  
-**Status:** All 64 video metadata files individually inspected; learning-artifact body review and rights clearance remain open.  
-**Source repository:** `incredibleboyster11-lab/chiefmate-reels` — read-only.  
-**Destination:** OceanPath repository.
 
-## Executive result
+## Uploaded learning-book corpus review — 15 November 2026
 
-The Hub catalogue identifies **9 Chief Mate learning groups** spanning Phase I written, Phase II written and oral preparation. The source production tracker contains **1289 data rows**. The video metadata directory contains **64 JSON files** at the time of this snapshot.
+The author explicitly confirmed that all nine PDFs uploaded in this project are their own work/data and authorised their use for OceanPath. The PDFs were opened successfully. The corpus contains **3,265 pages** in total. Cover/about-page metrics below are source-declared and have not yet been independently reconciled at question-ID level.
 
-The Hub reports the group-level answer, numerical, MCQ and past-paper figures recorded in `data/chiefmate-content-inventory.json`. These are explicitly labelled **source-reported metrics**, not independently verified counts of unique, complete or publication-ready learning units.
+| Source code | Uploaded book | Pages | Source-declared structure |
+|---|---|---:|---|
+| MEK | Engineering Knowledge, Instruments & Control Systems | 240 | 146 answers; 27 worked numericals; 48 past papers |
+| F3 | Chief Mate F3 Orals | 387 | 720 questions; 9 topics; 51 surveyor profiles |
+| NA | Chief Mate Naval Architecture II | 299 | 70 answers; 73 worked numericals; 39 past papers |
+| F2 | Chief Mate F2 Orals | 682 | 1,009 questions; 9 topics; 69 surveyor profiles |
+| NAV | Chief Mate Navigational Aids & Compass | 237 | 74 answers; 51 worked numericals; 38 past papers |
+| LAW | Chief Mate Maritime Legislation | 314 | 177 answers; 12 extra notes; 39 past papers; 351 questions checked |
+| F1 | Chief Mate F1 Orals | 534 | 1,012 questions; 9 topics; 50 surveyor profiles |
+| BWK | Bridge Watchkeeping, SAR & Ship Handling | 144 | 103 answers; 35 past papers; 31 sketches |
+| NA1 | Chief Mate Naval Architecture I | 428 | 62 answers; 81 worked numericals; 42 past papers |
 
-**No learning content is cleared for republication at this stage.** Rights remain unknown, external artifact bodies have not been inspected, and specialist content review has not been recorded.
+### First structural observations from the books
 
-## Inventory by learning group
+- Written-exam books use topic-wise answer collections, tier labels (Must do / Very likely / Important / Occasional), worked numerical guides and linked past-paper indexes. Specific paper counts and exam-pattern claims must remain labelled as source-derived until independently reconciled.
+- Oral books are organised by nine topics, Part A / Part B prioritisation, latest-orals markers and surveyor-profile navigation. Surveyor profiles and oral-report-derived details need privacy/confidentiality screening before any public derivative is created.
+- The books include navigation aids such as clickable top/index/answers/numericals/papers controls, internal question links and, in some cases, WhatsApp/community calls to action. Preserve useful learning navigation in the migration design, but do not expose private/community destinations as public platform defaults without review.
+- The author has authorised use of their original authored content. This permission does not automatically clear reproduced examination papers, third-party extracts/assets, personal data or third-party marks/logos; those remain component-level review items.
 
-| Code | Learning group | Stage | Hub pointer |
-|---|---|---|---|
-| MEK | Engineering Knowledge (MEK) | Phase II written | Hub catalogue entry |
-| LAW | Maritime Law | Phase II written | Hub catalogue entry |
-| NAV | Navigational Aids | Phase II written | Hub catalogue entry |
-| NA | Naval Architecture | Phase II written | Hub catalogue entry |
-| BWK | Bridge Watchkeeping, SAR & Ship Handling | Phase II written | Hub catalogue entry |
-| F1 | Function 1 Orals | Orals | Hub catalogue entry |
-| F2 | Function 2 Orals | Orals | Hub catalogue entry |
-| F3 | Function 3 Orals | Orals | Hub catalogue entry |
-| NA1 | Naval Architecture I | Phase I written | Hub catalogue entry |
+### Next audit sequence
 
-## Source snapshot and coverage
+1. Extract each book's full index/topic hierarchy and stable question/answer identifiers.
+2. Build a source-to-OceanPath mapping manifest with page references, topic, content type, source version and review status.
+3. Reconcile declared totals against actual indexed question/answer entries and identify overlaps across books.
+4. Run a technical accuracy and currency review, prioritising navigation, stability, legislation and safety-critical operational content.
+5. Run privacy and third-party rights screening, especially oral-report/surveyor material and reproduced past papers.
+6. Prepare a controlled pilot migration as a separate derivative; keep original PDFs and source repositories read-only.
 
-- Hub catalogue: `plan/hub/hub.json`, blob `f3e40a10e6a6ec678212004b27412eadecaf911a`.
-- Production tracker: `plan/tracker.csv`, blob `89cb94339d10311cc32bfab9833edb0536fe8cb0`.
-- Video metadata: `plan/videos/`, 64 files listed with blob SHA and byte size in the JSON inventory.
-- Tracker subject row totals: F1 295; F2 313; F3 239; MEK 116; NAV 68; BWK 63; LAW 121; NA 74.
-- The tracker contains operational fields such as episode status and production notes. They are not copied row by row into the public-safe inventory.
-- Surveyor identifiers, oral-report details, personal data and question-frequency claims are intentionally excluded from this derivative.
-
-## Video metadata review findings\n\nAll 64 JSON metadata files were individually fetched and parsed. They contain recurring production/distribution fields such as content slug, subject/lane, series or episode, topic/title, captions, YouTube descriptions, playlist references, media IDs/URLs and publication/privacy status. Several distinct metadata shapes exist (written/oral short-form, navigation lesson/shorts, promotional records and TCN chapter/question records); a single rigid source-field mapping would lose information.\n\nSome records contain source question identifiers or internal frequency/recency fields. Keep these internal until provenance and permitted use are established; do not present them publicly as verified exam likelihoods or official examination statistics. Some series records contain a `made_by` field, but this alone is not a contributor release, copyright assignment or licence. No dependable rights evidence or complete third-party attribution/licence record was established from the inspected metadata.\n\nThe nine Claude-hosted learning artifact bodies could not be fetched through the connected GitHub retrieval route, which rejected non-GitHub URLs. Their answer bodies, stable IDs and content quality remain unaudited.\n\n## Governance classification
-
-1. **Catalogue metadata:** suitable for internal inventory, subject to source attribution and brand review.
-2. **Answer/question content:** rights unknown; blocked from publication.
-3. **Past papers and third-party extracts:** require separate permissions/terms review.
-4. **Oral reports and surveyor-related data:** heightened privacy/confidentiality review; no personal identifiers in public derivatives.
-5. **Video scripts/media:** rights unknown until contributor, voice, music, image and stock licences are checked.
-
-## Next actions
-
-1. Individually inspect video JSON metadata and identify creator/contributor/source fields without copying sensitive data.
-2. Open each of the nine external learning artifacts where access permits; record structure and stable content IDs only, not answer bodies.
-3. Obtain written rights evidence and contributor permissions.
-4. Map stable source IDs to the OceanPath public-learning schema only after rights clearance.
-5. Select one low-risk written topic for a human-reviewed pilot after rights are established.
-
-## Audit boundary
-
-This report is a **baseline**, not a complete content audit. It does not certify answer accuracy, uniqueness, syllabus currency, copyright ownership, privacy compliance or regulatory alignment. Source repositories remain unchanged.
+This expands the audit beyond the earlier 64-video-metadata-only baseline. It does not certify the accuracy, completeness, uniqueness, rights status or regulatory currency of every answer.
