@@ -326,3 +326,19 @@
 |---|---|---|---|
 | OP-03 | Cross-book audit extended through BWK Topic 10 STS/dry-dock/repairs batch 14; Draft 10 contains XBK-001–090 | `data/bwk-f1-f3-crossbook-match-batch-14-sts-drydock-repairs.md`; `data/bwk-f1-f3-deduplicated-concept-register-draft-10.md` | Inspected-scope audit only; not complete nine-book deduplication |
 | OP-04 | BWK Topic 10 concepts mapped and classified | Batch 14 report | Qualified technical/class/regulatory review, rights and privacy screening remain mandatory |
+
+
+## 15 November 2026 — BWK↔F1↔F3 cross-book audit batch 15
+
+- Reopened BWK Topic 2 pp. 27–32 and compared V1–V4 with inspected F1 reporting / VTS / routeing answers.
+- Added `data/bwk-f1-f3-crossbook-match-batch-15-vts-reporting-routeing.md` and concept register Draft 11 with XBK-091 to XBK-094.
+- Strong direct overlap: VTS service structure and ship reporting systems; strong complementary overlap: practical VTS communication and ship routeing.
+- Preserved separation of SOLAS V/10 routeing, V/11 ship reporting and V/12 VTS; recorded Indian reporting thresholds as requiring current official verification.
+- No direct F3 answer established in targeted search; absence is limited to inspected search scope.
+- Candidate register now contains 94 IDs; partial BWK↔F1↔F3 inspected-scope audit only.
+- No source PDFs, study repositories or website files modified; no public migration or technical approval claimed.
+
+| ID | Updated status | Evidence / next deliverable | Gate |
+|---|---|---|---|
+| OP-03 | Cross-book audit extended through BWK Topic 2 VTS/reporting/routeing batch 15; Draft 11 contains XBK-001–094 | `data/bwk-f1-f3-crossbook-match-batch-15-vts-reporting-routeing.md`; `data/bwk-f1-f3-deduplicated-concept-register-draft-11.md` | Inspected-scope audit only; not complete nine-book deduplication |
+| OP-04 | BWK Topic 2 VTS/reporting/routeing concepts mapped and classified | Batch 15 report | Qualified regulatory review, rights and privacy screening remain mandatory |
