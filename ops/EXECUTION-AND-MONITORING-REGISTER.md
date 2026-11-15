@@ -134,3 +134,11 @@
 - Topic 9 source gap: Safety Committee role/duties/meeting agenda. Topic 11 source gap: Polar Code navigation-system requirements/exemptions for existing ships.
 - No exact BWK↔NAV duplicate established in inspected scope; F1/F3 comparison remains pending. Mapping is presence QA only, not technical correctness or regulatory approval.
 - Detailed evidence and boundaries: [BWK completion batch 05](../data/bwk-answer-body-qa-completion-batch-05.md).
+
+
+## 15 November 2026 — BWK↔F1/F3 cross-book candidate matrix, batch 01
+- Reopened F1/F3 source PDFs and mapped exact overlapping question objectives for running/standing moor, girting, collision response, grounding, beaching, anchor dragging, wheelhouse poster, emergency towing and blackout-in-TSS.
+- Recorded complementary matches for pilotage/pilot ladder, anchor maintenance, ship–tug interaction, dry dock, emergency drills, abandon ship, CO2 and enclosed-space topics.
+- Preserved source differences in beaching tide guidance, stranding definitions and ETA/ETP regulatory scope; no silent harmonisation.
+- Regulatory watch: IMO MSC 110 approved MSC.1/Circ.1691, MSC.1/Circ.1175/Rev.2 and MSC.1/Circ.1255/Rev.1. Actual circular texts and applicability must be checked before revising learning content. IMO safe-mooring page records SOLAS II-1/3-8 amendments effective 1 Jan 2024 and associated guidelines.
+- Detailed matrix and next steps: [BWK–F1–F3 candidate cross-match batch 01](../data/bwk-f1-f3-crossbook-match-candidates-batch-01.md).
