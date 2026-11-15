@@ -107,3 +107,11 @@
 - Compared BWK ship-handling cards with NAV autopilot, wheel-over, ROTI and controlled-radius turn material: no exact duplicate established; units are complementary and should remain separate.
 - Compared BWK VTS / ship reporting / routeing cards (V1–V4) and SAR cards with NAV AIS/LRIT/ECDIS. These are complementary shipboard-equipment versus shore-service / SAR-response perspectives, not duplicates.
 - Details and source-page limitations: [BWK-NAV batch 02](../data/bwk-nav-answer-body-qa-crossmatch-batch-02.md).
+
+
+## 15 November 2026 — BWK Topics 3–6 answer-body mapping batch 03
+- Inspected BWK Topic 3 Pilotage P1–P4 (printed pp.33–36); 4/4 topic cards located in answer section.
+- Inspected BWK Topic 4 emergency-plan material (E1/E2 and partial E3/E8/abandon-ship extracts); full E1–E15 mapping remains incomplete.
+- Inspected BWK Topic 5 T7–T9 (printed pp.59–62); earlier cards T1–T6 remain to be mapped.
+- Inspected BWK Topic 6 A1–A4 and start of A5 (printed pp.63–67); A5 completion and A6–A7 remain.
+- No exact NAV duplicates established in these inspected topics. Cross-links remain complementary or separate; report includes limitations: [BWK-NAV batch 03](../data/bwk-nav-answer-body-qa-crossmatch-batch-03.md).
