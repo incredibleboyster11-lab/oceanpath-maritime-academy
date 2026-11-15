@@ -188,3 +188,9 @@
 - S5 gains additional complementary links to F3 T6 Q94 (worker death in dry dock), Q46/Q49/Q92 (critical-period and flooding hazards), without replacing BWK's broad yard-safety coverage.
 - Detailed map: [BWK–F3 emergency / dry-dock safety cross-match batch 05](../data/bwk-f3-emergency-drydock-crossmatch-batch-05.md).
 - Next: update the concept register and continue BWK/F3 cross-topic mapping where emergency and ship-handling objectives overlap. Original PDFs remain read-only; no public content migration.
+
+
+## 15 November 2026 — Cross-book concept register draft 02
+- Extended draft 01 with eight additional concepts from emergency and dry-dock safety cross-match batch 05: abandon ship/foundering, fire-wallet, fixed CO2 release, enclosed-space entry/rescue, chemical-tanker fire/NLS spill, flooding/foundering, blackout-in-TSS, and dry-dock fatality/yard safety.
+- New register: `data/bwk-f1-f3-deduplicated-concept-register-draft-02.md`; draft 01 retained as historical version.
+- The register remains an internal BWK↔F1↔F3 candidate map, not a nine-book full deduplication or public-content approval. Unmatched findings are limited to inspected source scope.
