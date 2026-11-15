@@ -204,3 +204,11 @@
 - F3 T8 Q78 assistance to a vessel on fire is related to distress assistance but is not a general SOLAS V/33 distress-message answer. BWK R1–R7, R13–R15 remain unmatched in inspected F3 scope.
 - Detailed map: [BWK–F3 SAR/MOB cross-match batch 06](../data/bwk-f3-sar-mob-crossmatch-batch-06.md).
 - Next: search F1 Topics 7/9 for SAR, MOB, distress-message and IAMSAR-related question IDs, then update the concept register. Original PDFs remain read-only.
+
+
+## 15 November 2026 — BWK↔F1 SAR/MOB cross-match, batch 07
+- Inspected F1 Topic 7, Topic 9 and Topic 3 for exact SAR/MOB links to BWK R1–R15.
+- Strong/direct matches: R6/R7 search patterns ↔ F1 T7 Q16; R8 distress obligations ↔ T9 Q37; R13 MOB in TSS ↔ T7 Q19; R15 Indian MRCC organisation ↔ T3 Q51.
+- Partial coverage: R1/R3/R4 OSC/IAMSAR structure, R5 datum/track spacing, R9 first-on-scene preparation, R10 missing crew, R11 general MOB, R12 turns (F1 Q27 only Williamson). R2 SMC duties and R14 heavy-weather recovery remain unmatched in inspected F1 scope.
+- Detailed mapping: [BWK–F1 SAR/MOB cross-match batch 07](../data/bwk-f1-sar-mob-crossmatch-batch-07.md).
+- Next: add confirmed F1/F3 SAR links to the concept register and continue remaining BWK topic comparisons. Original PDFs remain read-only.
