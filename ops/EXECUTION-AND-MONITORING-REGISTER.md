@@ -115,3 +115,12 @@
 - Inspected BWK Topic 5 T7–T9 (printed pp.59–62); earlier cards T1–T6 remain to be mapped.
 - Inspected BWK Topic 6 A1–A4 and start of A5 (printed pp.63–67); A5 completion and A6–A7 remain.
 - No exact NAV duplicates established in these inspected topics. Cross-links remain complementary or separate; report includes limitations: [BWK-NAV batch 03](../data/bwk-nav-answer-body-qa-crossmatch-batch-03.md).
+
+
+## 15 November 2026 — BWK Topics 8–12 source pass, batch 04
+- Topic 8 Mooring: all 3 answer cards M1–M3 located in printed pp.94–97.
+- Topic 9 index declares 13 cards; W1–W5 and W10–W12 were inspected/partly mapped; W6–W9 and W13 remain to be mapped. Do not mark topic complete.
+- Topic 10 STS/dry-dock: partial page review pp.111–114; S3 and side-shell repair specification content visible; complete card/page mapping pending.
+- Topic 11 index declares I1–I5; I1–I4 visible/partly inspected pp.115–117; I5 remains unmapped. Source old-paper index flags a Polar navigation-system requirements question as not yet covered by an answer in the book.
+- Topic 12: Z2 and partial Z1 material visible on p.121; full index and card mapping pending.
+- No exact NAV duplicates established. Full limits and next actions: [BWK Topics 8–12 batch 04](../data/bwk-answer-body-qa-topics-08-to-12-batch-04.md).
