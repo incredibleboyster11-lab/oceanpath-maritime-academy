@@ -160,3 +160,12 @@
 - Corrected the mapping scope: F1 watchkeeping questions are primarily in Topic 9, COLREG in Topic 1 and heavy-weather context partly in Topic 4. Do not treat all as Topic 1 duplicates.
 - Detailed map: [BWK–F1 Watchkeeping/COLREG cross-match batch 03](../data/bwk-f1-watchkeeping-colreg-crossmatch-batch-03.md).
 - Next: inspect F3 Topic 6 dry-dock answers against BWK S4–S6; then consolidate cross-book candidate batches into a provenance-preserving concept register. No source PDFs modified and no public learning units created.
+
+
+## 15 November 2026 — BWK↔F3 dry-dock cross-match, batch 04
+- Inspected BWK S4–S6 (printed pp. 112–114) and F3 Topic 6 dry-docking / ship-construction questions (printed pp. 133–153 and relevant Part B references).
+- S4 flooding checklist has strong coverage across F3 T6 Q1/Q3/Q7/Q10/Q63/Q66: preparation, critical period, pre-flooding checks, stability and post-undocking checks.
+- S5 dry-dock emergencies is only partially matched by F3 T6 Q46/Q49/Q92: critical-period hazards, toppling prevention and listing during flooding. F3's inspected answers do not cover the full BWK fire / personal-injury / enclosed-space / yard-safety scope.
+- S6 side-shell repair specification has related supporting material in F3 T6 Q5/Q51/Q61/Q62 (shell expansion plan, deck crack, thickness criteria and UTM), but no exact side-shell plate repair-specification answer was established. Deck-crack Q51 is not a substitute.
+- Differences and review gates are recorded in [BWK–F3 Dry-Dock cross-match batch 04](../data/bwk-f3-drydock-crossmatch-batch-04.md).
+- Next: search the remaining F3 Topic 6 Part B material for direct steel-renewal matches; then consolidate cross-match batches 01–04 into a provenance-preserving concept register. Original PDFs remain read-only; no public learning units created.
