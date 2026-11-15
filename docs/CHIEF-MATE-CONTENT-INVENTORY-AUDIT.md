@@ -1,7 +1,7 @@
 # Chief Mate Content Inventory — Baseline Audit
 
 **Date:** 15 November 2026  
-**Status:** Baseline inventory created; detailed content and rights review remains open.  
+**Status:** All 64 video metadata files individually inspected; learning-artifact body review and rights clearance remain open.  
 **Source repository:** `incredibleboyster11-lab/chiefmate-reels` — read-only.  
 **Destination:** OceanPath repository.
 
@@ -36,7 +36,7 @@ The Hub reports the group-level answer, numerical, MCQ and past-paper figures re
 - The tracker contains operational fields such as episode status and production notes. They are not copied row by row into the public-safe inventory.
 - Surveyor identifiers, oral-report details, personal data and question-frequency claims are intentionally excluded from this derivative.
 
-## Governance classification
+## Video metadata review findings\n\nAll 64 JSON metadata files were individually fetched and parsed. They contain recurring production/distribution fields such as content slug, subject/lane, series or episode, topic/title, captions, YouTube descriptions, playlist references, media IDs/URLs and publication/privacy status. Several distinct metadata shapes exist (written/oral short-form, navigation lesson/shorts, promotional records and TCN chapter/question records); a single rigid source-field mapping would lose information.\n\nSome records contain source question identifiers or internal frequency/recency fields. Keep these internal until provenance and permitted use are established; do not present them publicly as verified exam likelihoods or official examination statistics. Some series records contain a `made_by` field, but this alone is not a contributor release, copyright assignment or licence. No dependable rights evidence or complete third-party attribution/licence record was established from the inspected metadata.\n\nThe nine Claude-hosted learning artifact bodies could not be fetched through the connected GitHub retrieval route, which rejected non-GitHub URLs. Their answer bodies, stable IDs and content quality remain unaudited.\n\n## Governance classification
 
 1. **Catalogue metadata:** suitable for internal inventory, subject to source attribution and brand review.
 2. **Answer/question content:** rights unknown; blocked from publication.
