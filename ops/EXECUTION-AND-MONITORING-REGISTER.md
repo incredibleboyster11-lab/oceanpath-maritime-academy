@@ -16,6 +16,9 @@
 | ID | Workstream | Initial status | Next evidence / deliverable | Gate |
 |---|---|---|---|---|
 | OP-01 | Governance and source protection | In progress | Confirm branch/repository boundaries and source immutability | No source material modified |
+| OP-11 | Public content metadata schema | Created; validation pending | Validate schema against sample approved content and add lint checks | No publication unless rights + review gates pass |
+| OP-12 | Regulatory change watch | Created; first official-source scan due | Populate exact document-level entries and affected content map | No learner-facing change based on rumours |
+| OP-13 | Security and recovery baseline | Checklist created; implementation unverified | Enable MFA/protection, select hosting/backup and complete first restore test | Do not claim controls complete without evidence |
 | OP-02 | Brand and legal clearance | Not started | Domain, trademark and name screening; record counsel advice if needed | No claim of clearance before checks |
 | OP-03 | Content inventory and rights register | Not started | Stable IDs, source provenance, rights, status, reviewer, review date | No unverified material published |
 | OP-04 | Public-safe Chief Mate migration map | Audit exists | Map nine Hub book groups and approved canonical routes | Rights + review + mobile QA |
@@ -53,6 +56,7 @@
 | Review date | Risk changes | New controls | Decisions |
 |---|---|---|---|
 | 15 Nov 2026 | Initial baseline established from the master blueprint | Weekly, monthly and quarterly review cadence defined | Start with governance, content rights/provenance, regulatory watch and security baseline |
+| 15 Nov 2026 | Phase 0 operating documents created | Public content schema, regulatory watch log and security/recovery checklist added | Validate schema, populate exact regulatory source records, and implement/test security controls |
 
 ## Rules for keeping this register honest
 
