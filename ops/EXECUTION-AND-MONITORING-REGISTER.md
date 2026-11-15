@@ -296,3 +296,18 @@
 |---|---|---|---|
 | OP-03 | Cross-book audit extended through ship-handling H11–H20 batch 12; Draft 08 contains XBK-001–081 | `data/bwk-f1-f3-crossbook-match-batch-12-shiphandling-h11-h20.md`; `data/bwk-f1-f3-deduplicated-concept-register-draft-08.md` | Inspected-scope audit only; not complete nine-book deduplication |
 | OP-04 | Ship-handling H11–H20 concepts mapped and classified | Batch 12 report | Qualified technical/regulatory review, rights and privacy screening remain mandatory |
+
+
+## 15 November 2026 — BWK↔F1↔F3 cross-book audit batch 13
+
+- Reopened BWK Topic 8 pp. 94–97 and compared M1–M3 with inspected F1/F3 mooring material.
+- Added `data/bwk-f1-f3-crossbook-match-batch-13-mooring.md` and concept register Draft 09 with XBK-082 to XBK-084.
+- Running moor and standing moor have strong direct overlap with F1/F3; mooring between two buoys remains unmatched in inspected F1/F3 passages.
+- Preserved running vs standing sequence distinction, source-specific anchor labels and cable-length caveats.
+- Candidate register now contains 84 IDs; partial BWK↔F1↔F3 inspected-scope register only.
+- No source PDFs, study repositories or website files modified; no public migration or technical approval claimed.
+
+| ID | Updated status | Evidence / next deliverable | Gate |
+|---|---|---|---|
+| OP-03 | Cross-book audit extended through BWK Topic 8 Mooring batch 13; Draft 09 contains XBK-001–084 | `data/bwk-f1-f3-crossbook-match-batch-13-mooring.md`; `data/bwk-f1-f3-deduplicated-concept-register-draft-09.md` | Inspected-scope audit only; not complete nine-book deduplication |
+| OP-04 | BWK Topic 8 mooring concepts mapped and classified | Batch 13 report | Qualified technical review, rights and privacy screening remain mandatory |
