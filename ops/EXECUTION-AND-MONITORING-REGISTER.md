@@ -390,3 +390,17 @@
 |---|---|---|---|
 | OP-03 | Three explicit BWK gaps rechecked against F1/F3 in batch 18; Draft 14 contains XBK-001–103 | `data/bwk-f1-f3-gap-audit-batch-18-emergency-polar-chemical-fire.md`; `data/bwk-f1-f3-deduplicated-concept-register-draft-14.md` | All three gaps remain open |
 | OP-04 | Safety Committee, Polar Code exemptions and chemical tanker fire-plan gaps classified | Batch 18 report | Official source verification and qualified review required before drafting / publication |
+
+
+## 15 November 2026 — Regulatory gap research batch 19
+
+- Added `docs/REGULATORY-GAP-RESEARCH-BATCH-19-SAFETY-POLAR-CHEMICAL-FIRE.md` and concept register Draft 15.
+- XBK-101 Safety Committee: ILO MLC OSH Chapter 5 and MCA COSWP committee agenda/minutes guidance located. Ready for source-led educational drafting after checking current COSWP 2026 and flag/company applicability. Agenda to be labelled a synthesis, not universal mandatory list.
+- XBK-102 Polar Code: verified original MSC.385(94) Chapter 9.3 construction-date provisions and MSC.538(107) new Chapter 9-1 effective 1 Jan 2026. Clarified that specific equipment provisions have build-date thresholds; no blanket existing-ship exemption. UK legislation provides a jurisdiction-specific transition to 1 Jan 2027 for specified additional categories built before 1 Jan 2026.
+- XBK-103 Chemical tanker fire: IMO IBC framework and Type 1/2 definitions verified. Current detailed IBC/FSS/SOLAS provisions and cargo-/ship-specific fire plan still required; no generic operational checklist drafted.
+- Candidate register remains 103 IDs; Draft 15 refines research status without adding new concepts.
+- No source PDFs, study repositories or website files modified; no public migration or technical approval claimed.
+
+| ID | Updated status | Evidence / next deliverable | Gate |
+|---|---|---|---|
+| OP-04 | Regulatory gap research batch 19 completed; Safety Committee and Polar topics ready for source-led draft; chemical tanker fire remains open | `docs/REGULATORY-GAP-RESEARCH-BATCH-19-SAFETY-POLAR-CHEMICAL-FIRE.md`; concept register Draft 15 | Current flag/company / COSWP verification; qualified Polar Code and chemical-tanker review |
