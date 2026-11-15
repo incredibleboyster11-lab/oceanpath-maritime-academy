@@ -1,49 +1,34 @@
-# Chief Mate Source Rights & Provenance Register
 
-**Review date:** 15 November 2026  
-**Source repository:** `incredibleboyster11-lab/chiefmate-reels` (read-only)  
-**OceanPath rule:** No source learning content is approved for republication until rights evidence and qualified content review are recorded.
 
-## Current finding
+## Author confirmation and uploaded-book review — 15 November 2026
 
-The source repository contains a Hub catalogue, a production tracker and a video metadata directory. The catalogue points to nine Chief Mate learning groups. The tracker contains 1289 data rows across F1: 295, F2: 313, F3: 239, MEK: 116, NAV: 68, BWK: 63, LAW: 121, NA: 74. The video directory contains 64 JSON metadata files, all individually fetched and parsed in this pass. They contain production/distribution metadata, including captions/descriptions, playlist and platform identifiers, subject/topic identifiers and differing record shapes. Some contain internal oral-question frequency/recency data. Some series records contain a `made_by` field, but this does not prove rights ownership or permission. The inspected metadata did not establish written licences, assignments, contributor releases or a complete third-party rights trail.
+The author/creator has explicitly confirmed in ChatGPT that the nine uploaded Chief Mate PDF books are their own work and data, and has authorised OceanPath to use them for the project. This is recorded as **first-party author permission for the author's original compilation, explanations, original answer writing, worked solutions, original diagrams/sketches and authored presentation/layout**, subject to the boundaries below. The nine source PDFs are available in the current project conversation and have been opened for review.
 
-**Overall rights status: UNKNOWN — NOT CLEARED FOR PUBLICATION.**
+| Uploaded source | Pages | Source-declared coverage |
+|---|---:|---|
+| Engineering Knowledge, Instruments & Control Systems (MEK) | 240 | 146 answers; 27 worked numericals; 48 past papers |
+| Chief Mate F3 Orals | 387 | 720 questions; 9 topics; 51 surveyor profiles |
+| Chief Mate Naval Architecture II | 299 | 70 answers; 73 worked numericals; 39 past papers |
+| Chief Mate F2 Orals | 682 | 1,009 questions; 9 topics; 69 surveyor profiles |
+| Chief Mate Navigational Aids & Compass | 237 | 74 answers; 51 worked numericals; 38 past papers |
+| Chief Mate Maritime Legislation | 314 | 177 answers; 12 extra notes; 39 past papers; 351 questions checked |
+| Chief Mate F1 Orals | 534 | 1,012 questions; 9 topics; 50 surveyor profiles |
+| Bridge Watchkeeping, SAR & Ship Handling | 144 | 103 answers; 35 past papers; 31 sketches |
+| Chief Mate Naval Architecture I | 428 | 62 answers; 81 worked numericals; 42 past papers |
 
-## Asset-class register
+**Total: 3,265 pages across nine uploaded PDFs.** Counts above are transcribed from the books' own cover/about pages and are source-declared, not independently deduplicated counts.
 
-| Asset class | Identified scope | Rights status | Evidence required | Publication decision |
-|---|---|---|---|---|
-| Written-answer books | 9 Hub groups: MEK, LAW, NAV, NA, BWK, F1, F2, F3, NA1 | Unknown | Author/rightsholder identity, written licence/assignment, third-party source permissions, diagrams/images rights | Blocked |
-| Oral-question banks | F1, F2, F3 groups; exact question content not copied into this register | Unknown | Rights to question wording, submitted reports, recordings/transcriptions and any third-party contributions | Blocked |
-| Past examination papers | Referenced in source group metrics and learning assets | Unknown | Issuing authority terms, reproduction permission, copyright status and permitted excerpts | Blocked |
-| Numerical solutions, sketches and diagrams | Embedded in subject learning assets | Unknown | Creator identity and rights; licences for any source diagrams, tables or illustrations | Blocked |
-| Video scripts and metadata | 64 JSON files listed under `plan/videos/` | Unknown | Script/voice/visual ownership, contributor releases, music/font/stock licences, platform reuse scope | Blocked |
-| Published short-form videos | YouTube/Instagram pointers appear in Hub metadata | Unknown | Account ownership, underlying script and media rights, cross-platform embedding/reuse permissions | Blocked |
-| Oral reports and surveyor-related material | Referenced in oral-learning source groups; details intentionally excluded here | Unknown / heightened privacy review | Consent, anonymisation, lawful basis, confidentiality assessment, right to withdraw, no identifying personal data | Blocked |
-| Social/community material | WhatsApp, YouTube and Instagram distribution pointers | Unknown | Account ownership, user-generated content terms, consent and moderation/privacy controls | Blocked |
-| Brand assets | Names, logos, covers, thumbnails and visual templates | Unknown | Trademark clearance, designer assignment/licence, third-party logo permissions | Blocked |
+### Rights boundary after author confirmation
 
-## Source snapshots
+- The author's confirmation resolves the permission blocker for use of the author's own original work within OceanPath, including internal analysis, transformation, derivative learning units and project implementation.
+- It does **not automatically clear embedded third-party material**: reproduced past examination papers or question wording, statutory/convention extracts beyond permitted use, textbook material, third-party diagrams/tables/images, fonts, logos or other externally created assets. Review these components separately and use attribution, limited quotation, links to official sources or permission as appropriate.
+- Oral question reports and surveyor-profile sections require a separate privacy/confidentiality pass. Remove or generalise personal identifiers and do not publish sensitive or unverified personal claims merely because the surrounding book is author-created.
+- The permission is an author instruction recorded in this project; it is not a legal opinion and does not establish trademark clearance or third-party permissions.
 
-| Source | Observed identifier | Use in this audit |
-|---|---|---|
-| `plan/hub/hub.json` | Blob `f3e40a10e6a6ec678212004b27412eadecaf911a` | Nine-group catalogue and asset pointers |
-| `plan/tracker.csv` | Blob `89cb94339d10311cc32bfab9833edb0536fe8cb0` | Aggregate inventory only; row-level details not republished |
-| `plan/videos/` | 64 listed JSON files | File paths, blob SHAs and sizes retained in the machine-readable inventory |
+### Updated decision
 
-## Required clearance workflow
+**Author-created original content: AUTHOR PERMISSION CONFIRMED for OceanPath use.**
 
-1. Identify each author, contributor and relevant rightsholder for each asset group.
-2. Obtain written permission or confirm an applicable licence; record the exact evidence location and scope.
-3. Audit third-party material separately: statutory text, exam papers, textbooks, diagrams, photographs, charts, fonts, music and stock media.
-4. Treat oral reports, surveyor-related material and learner submissions as a separate privacy/confidentiality review; remove identifying details unless there is a documented lawful basis and consent/permission.
-5. Record reviewer, review date, rights evidence, allowed uses, attribution, expiry/termination and takedown contact.
-6. Only then create a separate derivative for OceanPath with provenance and human review. Never edit or move the original source.
+**Embedded third-party materials, exam-paper reproduction, personal/oral-report information and brand assets: REVIEW REQUIRED / NOT YET CLEARED.**
 
-## Explicit limitations
-
-- The external Claude artifact contents have not been inspected in this pass.
-- The 64 video JSON files have been listed by filename, SHA and size; their individual contents have not yet been audited.
-- No author agreement, copyright assignment, licence, contributor release or third-party permissions were present in the inspected Hub/tracker metadata.
-- Therefore this is a **baseline rights register**, not a legal opinion and not a completed rights clearance.
+Proceed with a structured internal content audit and migration design. Public release remains subject to component-level rights review, privacy screening, qualified technical review and regulatory currency checks.
