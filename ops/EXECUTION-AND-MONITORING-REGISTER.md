@@ -438,3 +438,18 @@
 |---|---|---|---|
 | OP-04 | Chemical tanker fire / NLS source research batch 21 completed; XBK-103 research-supported, not approved | `docs/REGULATORY-GAP-RESEARCH-BATCH-21-CHEMICAL-TANKER-FIRE-NLS.md` | Current IBC/FSS/SOLAS controlled texts, cargo-specific media, specialist review |
 | OP-03 | Candidate register remains 103 concepts; XBK-103 research status refined | Draft 16 + Batch 21 memo | Nine-book deduplication still incomplete |
+
+
+## 15 November 2026 — Chemical tanker fire / NLS answer framework batch 22
+
+- Added `drafts/BWK-GAP-ANSWER-BATCH-22-CHEMICAL-TANKER-FIRE-NLS.md`.
+- XBK-103 now has an internal exam-answer framework combining cargo-space fire response architecture and the existing NLS spill response, with distinct sections.
+- The answer correctly distinguishes Type 1 / Type 2 ship design categories from fire classes and makes cargo-specific media selection mandatory.
+- IBC 11.3 / 11.4 / 11.5 are described separately; no claim that deck foam or deck dry powder is a universal cargo-tank interior extinguishing method.
+- NLS response has compatibility cautions: do not assume generic oil-spill absorbents, dispersants, water or neutralisers are suitable.
+- Draft remains internal and requires current-code and qualified specialist review before public release or operational use.
+
+| ID | Updated status | Evidence / next deliverable | Gate |
+|---|---|---|---|
+| OP-04 | XBK-103 internal exam framework drafted in batch 22 | `drafts/BWK-GAP-ANSWER-BATCH-22-CHEMICAL-TANKER-FIRE-NLS.md`; research Batch 21 | Qualified chemical-tanker / fire-safety review and controlled current-code verification |
+| OP-03 | Candidate concept register remains 103 IDs; Draft 17 records all three former gaps' draft/research status | `data/bwk-f1-f3-deduplicated-concept-register-draft-17.md` | Broader nine-book deduplication remains incomplete |
