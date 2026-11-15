@@ -234,3 +234,18 @@
 |---|---|---|---|
 | OP-03 | BWK↔F1↔F3 cross-book matching extended through batch 08; concept register Draft 04 now has XBK-001–049 | `data/bwk-f1-f3-crossbook-match-batch-08-vts-routeing-piracy.md`; `data/bwk-f1-f3-deduplicated-concept-register-draft-04.md` | Partial inspected-scope audit only; no accuracy or publication clearance |
 | OP-04 | Source-to-platform mapping extended for VTS, SRS, routeing and piracy concepts | Batch 08 report and stable XBK IDs | Keep BMP5/BMP 2025 divergence visible; rights, privacy and qualified technical review remain mandatory |
+
+
+## 15 November 2026 — BWK↔F1↔F3 cross-book audit batch 09
+
+- Reopened the user-authored BWK, F1 and F3 PDFs and inspected BWK Topic 3 Pilotage against F1 bridge-support / pilot-ladder questions and F3 pilot-ladder material.
+- Added `data/bwk-f1-f3-crossbook-match-batch-09-pilotage.md` and concept register Draft 05 with XBK-050 to XBK-052.
+- Separated three linked but distinct learning objectives: Master–pilot information exchange; Master's/bridge team's duties with pilot onboard; pilot boarding manoeuvre and transfer-equipment requirements.
+- Flagged F3's cited pilot-ladder amendments MSC.572(110) / MSC.576(110) and future applicability dates for official-text verification before public use.
+- Candidate concept register now contains 52 IDs; still a partial BWK↔F1↔F3 inspected-scope register, not a nine-book complete deduplication.
+- No source PDFs, study repositories or website files were modified; no public migration or technical approval is claimed.
+
+| ID | Updated status | Evidence / next deliverable | Gate |
+|---|---|---|---|
+| OP-03 | Cross-book audit extended through pilotage batch 09; Draft 05 contains XBK-001–052 | `data/bwk-f1-f3-crossbook-match-batch-09-pilotage.md`; `data/bwk-f1-f3-deduplicated-concept-register-draft-05.md` | Inspected-scope match audit only; no technical or publication clearance |
+| OP-04 | Pilotage concepts mapped to source questions and stable IDs | Batch 09 report | Official pilot-transfer requirements, rights, privacy and qualified review remain open |
