@@ -373,3 +373,20 @@
 |---|---|---|---|
 | OP-03 | Cross-book audit extended through BWK Topic 12 piracy/BMP batch 17; Draft 13 contains XBK-001–100 | `data/bwk-f1-f3-crossbook-match-batch-17-piracy-bmp.md`; `data/bwk-f1-f3-deduplicated-concept-register-draft-13.md` | Partial inspected-scope register; not complete nine-book deduplication |
 | OP-04 | BWK Topic 12 piracy/BMP concepts mapped and classified | Batch 17 report | Current security guidance, confidentiality, rights and qualified review remain mandatory |
+
+
+## 15 November 2026 — BWK↔F1↔F3 open-gap audit batch 18
+
+- Rechecked the three explicit BWK source gaps against targeted F1/F3 searches.
+- Added `data/bwk-f1-f3-gap-audit-batch-18-emergency-polar-chemical-fire.md` and concept register Draft 14 with XBK-101 to XBK-103.
+- Safety Committee: F3 T4 Q85 / T3 Q21 give partial safety-officer / monthly-meeting support, but no full committee agenda.
+- Polar Code: F1 T6 navigation equipment supports part of the question; existing-ship exemptions remain unlocated in inspected passages.
+- Chemical tanker Type 1/2 cargo-space fire: F3 fixed systems and tanker deck explosion answers are related only; no complete contingency plan found.
+- All three remain open. No generic operational answer stitched together from incomplete material.
+- Candidate register now contains 103 IDs; partial BWK↔F1↔F3 register and gap record only.
+- No source PDFs, study repositories or website files modified; no public migration or technical approval claimed.
+
+| ID | Updated status | Evidence / next deliverable | Gate |
+|---|---|---|---|
+| OP-03 | Three explicit BWK gaps rechecked against F1/F3 in batch 18; Draft 14 contains XBK-001–103 | `data/bwk-f1-f3-gap-audit-batch-18-emergency-polar-chemical-fire.md`; `data/bwk-f1-f3-deduplicated-concept-register-draft-14.md` | All three gaps remain open |
+| OP-04 | Safety Committee, Polar Code exemptions and chemical tanker fire-plan gaps classified | Batch 18 report | Official source verification and qualified review required before drafting / publication |
