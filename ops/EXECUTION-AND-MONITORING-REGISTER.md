@@ -75,3 +75,20 @@
 |---|---|---|---|
 | OP-03 | NAV fully inventoried: 74 theory + 51 numerical cards; BWK inventory started with 15/103 cards | `data/nav-content-question-inventory-batch-01.md` through `batch-03.md`; `data/nav-numerical-bank-inventory-and-reconciliation.md`; `data/bwk-content-question-inventory-batch-01.md` | Continue BWK topics; no public release without review |
 | OP-04 | NAV row-level inventory complete; BWK row-level inventory in progress | Complete BWK 103-card inventory, then question-level cross-book overlap analysis | Original PDFs read-only; derivatives remain internal drafts |
+
+
+## 15 November 2026 — BWK answer-card inventory reconciled
+
+- Extracted the BWK topic index and IDs for Topics 2–12, adding 88 cards to the 15-card SAR inventory from batch 1.
+- Combined BWK total: 103 answer-card IDs across 12 topics, matching the source-declared 103 answers.
+- Evidence:
+  - `data/bwk-content-question-inventory-batch-01.md` — Topic 1, R1–R15.
+  - `data/bwk-content-question-inventory-batch-02.md` — Topics 2–12, 88 cards.
+- Topic-level counts reconcile: 15 + 4 + 4 + 15 + 9 + 7 + 20 + 3 + 13 + 6 + 5 + 2 = 103.
+- This is index-level extraction of IDs and headings; individual answer bodies have not all been audited. Exact per-card page spans and technical accuracy review remain open.
+- Next: inspect BWK answer bodies and begin actual NAV↔BWK question wording overlap analysis. Shared topic labels alone are not sufficient to call duplicates. Original PDFs remain read-only; no public content migration.
+
+| ID | Updated status | Evidence / next deliverable | Gate |
+|---|---|---|---|
+| OP-03 | NAV fully inventoried (74 theory + 51 numerical); BWK index inventory reconciled (103/103) | NAV inventory files; `data/bwk-content-question-inventory-batch-01.md`; `data/bwk-content-question-inventory-batch-02.md` | BWK answer-body QA and technical/regulatory/privacy review before release |
+| OP-04 | NAV row-level map complete; BWK topic-index map complete | Answer-body QA and cross-book question-level overlap report | Original sources remain read-only; derivatives internal until cleared |
