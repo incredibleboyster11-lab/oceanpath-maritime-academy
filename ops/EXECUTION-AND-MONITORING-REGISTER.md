@@ -567,3 +567,17 @@
 |---|---|---|---|
 | OP-03 | NA I numerical family counts reconciled to 81; front-index family labels corrected in derivative. NA II detailed section reconciles to 47 vs front-index 73; 26-item discrepancy remains open | `docs/NAVAL-ARCHITECTURE-NUMERICAL-BANK-RECONCILIATION-BATCH-30.md` | Full title/page inventory; inspect NA II outside pp. 110–206; independently recalculate worked examples |
 | OP-04 | Numerical bank reconciliation documented as internal derivative | Batch 30 memo | Qualified naval-architecture review before any public release |
+
+
+## 16 November 2026 — NA II numerical card inventory batch 31
+
+- Reopened NA II numerical pages 110–206 and confirmed all detailed card IDs: BI01–BI20, SF01–SF20 and CO01–CO07 (47 total).
+- Located worked-solution markers across all 47 cards, including the final bilging cards BI19 (p.150) and BI20 (p.152). This is presence QA, not calculation validation.
+- Recorded explicit source-stated repeated-template relationships: BI19/BI15; SF11/SF03; SF15/SF09; SF20/SF17. These remain source notes, not independently adjudicated duplicates.
+- Added `data/na-ii-numerical-card-inventory-batch-31.md`. Full title transcription remains partial and is explicitly labelled.
+- NA II front-index 73 vs detailed-section 47 discrepancy remains unresolved; further search outside pp.110–206 and source metadata review required. Original PDF remains read-only.
+
+| ID | Updated status | Evidence / next deliverable | Gate |
+|---|---|---|---|
+| OP-03 | NA II detailed numerical card IDs reconciled: 47/47; worked-solution presence markers located; 26-card front-index discrepancy remains open | `data/na-ii-numerical-card-inventory-batch-31.md` | Complete title transcription; search outside numerical span; independent calculation QA |
+| OP-04 | NA II numerical inventory captured as internal derivative | Batch 31 inventory | Qualified naval-architecture review before public release |
